@@ -1,0 +1,951 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The divine and spiritual ambassadour described in a sermon preached at the visitation at Alisbury, Com. Bucks. Octob. 14, 1662 by J.B. B.D.</title>
+            <author>J. B. (John Bird), b. 1584 or 5.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 101 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28192</idno>
+            <idno type="STC">Wing B2952</idno>
+            <idno type="STC">ESTC R14806</idno>
+            <idno type="EEBO-CITATION">11718824</idno>
+            <idno type="OCLC">ocm 11718824</idno>
+            <idno type="VID">48318</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48318)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 483:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The divine and spiritual ambassadour described in a sermon preached at the visitation at Alisbury, Com. Bucks. Octob. 14, 1662 by J.B. B.D.</title>
+                  <author>J. B. (John Bird), b. 1584 or 5.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Sarah Griffin, for Robert Pawlet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: John Bird.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 2nd, V, 20 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48318:1"/>
+            <pb facs="tcp:48318:1" rendition="simple:additions"/>
+            <p>The Divine and Spiritual AMBASSADOUR Deſcribed in a SERMON Preached at the VISITATION AT <hi>ALISB<g ref="char:V">Ʋ</g>RY,</hi> Com. <hi>Bucks.</hi> Octob. 14. 1662.</p>
+            <p>By <hi>J. B.</hi> B. D. ſometimes Student of Chriſt Church in <hi>Oxford,</hi> and now Rector of <hi>Cheddington</hi> in the County of <hi>Bucks.</hi>
+            </p>
+            <q>
+               <bibl>Tertul. de praeſcrip. adverſus haer. cap. 43.</bibl>
+               <p>
+                  <g ref="char:V">Ʋ</g>bi Deus ibi metus in Deum, qui eſt initium ſapientiae. <g ref="char:V">Ʋ</g>bi metus in Deum ibi gravitas honeſta, &amp; diligentia attonita, &amp; cura ſol<g ref="char:EOLhyphen"/>licita &amp; adlectio explorata, &amp; communicatio deliberata, &amp; pro<g ref="char:EOLhyphen"/>motio emerita, &amp; ſubjectio religioſa, &amp; apparitio devota, &amp; pro<g ref="char:EOLhyphen"/>ceſſio modeſta, &amp; eccleſia unita, &amp; Dei omnia.</p>
+            </q>
+            <p>LONDON, Printed by <hi>Sarah Griffin,</hi> for <hi>Robert Pawlet,</hi> at the Bible in Chancery Lane, neer the Inner Temple Gate. 1663.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:48318:2"/>
+            <p>I have peruſed this Sermon, and think it fit to be printed.</p>
+            <closer>
+               <signed>Geo: Winton.</signed>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>IMPRIMATVR.</p>
+            <closer>
+               <dateline>
+                  <date>Martii 18. 166<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>/<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date>
+               </dateline>
+               <signed>M. Frank. S.T.P. R.P.D. Ep. Lond. à Sacr. Domeſt.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48318:2"/>
+            <head>TO THE Right Honourable IOHN Earle of <hi>BRIDGEWATER.</hi> My moſt honoured Lord and Patron.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is now ſomewhat above fifty yeares from the day that this Rectory was be<g ref="char:EOLhyphen"/>ſtowed on me, by the ſingular bounty of your ever admired and moſt honorable Grand-father, then our great Lord Chancellour. And ever ſince I have en<g ref="char:EOLhyphen"/>joyed it with much comfort, under the favourable aſpect of your Noble Father, and the gracious influence of your own continual goodneſs. In which regard I am ſorry, that I could not ſo freely and fre<g ref="char:EOLhyphen"/>quently gain the opportunity to tender my bounden duty and thankfulneſſe; partly, by the croſſeneſſe of the Times; part<g ref="char:EOLhyphen"/>ly, by the craſyneſſe of my age; and partly, laſt year, by the ap<g ref="char:EOLhyphen"/>pointment of our late and learned Dioceſan requiring me
+<pb facs="tcp:48318:3"/>
+to preach at his Viſitation; and yet when the time came he confeſſed, that by the multitude of an Old mans cares after<g ref="char:EOLhyphen"/>ward he had quite forgot it. So that I was put off till our next viſitation; upon the fourteenth of October laſt, at <hi>Aliſ<g ref="char:EOLhyphen"/>bury,</hi> then to preach this ſermon. Where it was ſo reſpect<g ref="char:EOLhyphen"/>ed by the greater part of the Auditors, that they deſired a copy thereof, whereby it might be further publiſhed. <g ref="char:V">Ʋ</g>pon which motion I made ſome pauſe, till I was more encouraged by ſome judicious perſons of higher rank and reputation, to get the ſermon longer liv'd, then the ſhort time, wherein it was uttered. Wherefore ſeeing it is now come to the Preſs, I humbly implore the ſhelter of your conſtant favour &amp; goodneſs, for leave to preſent and dedicate it to your right Honourable Patronage and protection; in token of the fide<g ref="char:EOLhyphen"/>lity which <hi>I</hi> owe to our gracious God, loyalty to our dread Sovereign, charity to our native Countrey, zeal to the glo<g ref="char:EOLhyphen"/>rious Goſpel of our bleſsed Saviour, and peace of his Church, with the duty and devotion, in which I am deeply ingaged daily to ſeek and ſue for the health and happineſſe of your excellent perſon, with your virtuous conſort, and all the No<g ref="char:EOLhyphen"/>ble branches of the hopefull Family; toward whom I rejoice in all concurrences of dutifull correſpondence, ſtill to con<g ref="char:EOLhyphen"/>tinue,</p>
+            <closer>
+               <signed>Your Lordſhips moſt humble Orator, and thankfull Servant. <hi>John Bird.</hi>
+               </signed>
+               <dateline>
+                  <hi>Ched.</hi> 
+                  <date>this <hi>March</hi> 26. <hi>An. Dom.</hi> 1663.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:48318:3"/>
+            <head>THE Divine Ambaſſador</head>
+            <epigraph>
+               <q>
+                  <bibl>2 COR. 5.20.</bibl>
+                  <p>Now then we are Ambaſſadors for Chriſt.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N giving audience to Ambaſſadors, great expe<g ref="char:EOLhyphen"/>ctation is a great prejudice to gracious acceptati<g ref="char:EOLhyphen"/>on,<note place="margin">Sen. ad Lucili<g ref="char:EOLhyphen"/>um ep. <hi>60.</hi>
+               </note> unleſſe that when we have ſaid all that we can, we be interpreted to ſignifie more then we have utterance to expreſſe. Of other Ambaſſa<g ref="char:EOLhyphen"/>dors we find, that carping <hi>Pytheas,</hi> to diſparage the Athenians, ſaid thus, <hi>Like as we preſume, that there is ſome ſickneſſe in the houſe whither we ſee Aſſes milk brought, ſo muſt that town of neceſſity be ſick, whither the Ambaſſadors of Athens go:</hi>
+               <note place="margin">Plutarch. De<g ref="char:EOLhyphen"/>moſthen.</note> and that loyal <hi>Demoſthenes</hi> retorting his compariſon, made anſwer, <hi>Indeed, they brought ſuch milk where there was need to recover health:</hi> And even ſo the <hi>Embaſſadors of Athens</hi> went to heal thoſe that were ſick. But, certainly, both are more co<g ref="char:cmbAbbrStroke">̄</g>fortably verified of <hi>Chriſts</hi> Ambaſſadors; whitherſoever they go we may preſume that there is ſome ſickneſſe; for this is the <hi>terminus a quo,</hi> and therewith alſo we muſt hope, that there are good meanes
+<pb n="2" facs="tcp:48318:4"/>
+and medicines of recovery;<note place="margin">2 <hi>Cor.</hi> 5 18, 19.</note> for this is the <hi>terminus ad qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m,</hi> for which they are ſent, even to reconcile thoſe that were enemies, to ſave thoſe that were loſt, to heal thoſe that were ſick, and to reſtore life unto thoſe that were dead. This is the main ſcope and ſumme of all our mini<g ref="char:EOLhyphen"/>ſtration.</p>
+            <p>And now, then, we are Ambaſſadors for Chriſt.</p>
+            <p n="2">2. If <hi>Timanthes</hi> had this facility in painting, that the ſpectators, by marking the carriage of his hand, underſtood more of his workmanſhip in the <hi>raſa tabula</hi> of their own imagination,<note place="margin">Lipſ. cent. <hi>1.</hi> ep. <hi>13.</hi>
+               </note> then he was able to expreſſe in the <hi>picta tabu<g ref="char:EOLhyphen"/>la</hi> of his imagery; why may not I likewiſe hope, that my auditors, by experience of Gods mercy in the cure of their own miſery, will grant me the felicity to conceive higher of the worth of our ambaſſage, then I have any faculty to explain it? <hi>Origen</hi> ſaith of the Spirit in the <hi>Canticles,</hi> that hee doth that ofte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> through the whole Song, which unleſſe a man feel it in himſelf, being touched with a Divine Dart,<note place="margin">H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mil. <hi>1.</hi> in Cant.</note> by the ſpirit of Love, he can hardly be able to underſtand; and ſo, though our Apoſtles meaning can<g ref="char:EOLhyphen"/>not be worthily expreſt by any leſſe then ſome Apoſtle; yet (methinks) it may be conceived of you all very fitly, as if he had accourted his Diſciples in plainer terms, to this purpoſe.</p>
+            <p n="3">3. It's a wonder, that any of you ſhould be in Chriſt, and not prove a new creature,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cor.</hi> 5.17.</note> when old things are paſt, and all things are become new Even God himſelf, who ſaid to <hi>Iſrael,</hi>
+               <note place="margin">
+                  <hi>Mal.</hi> 3.6.</note> 
+               <hi>I am the ſame, I change not, and therefore ye ſons of Jacob are not conſumed,</hi> is now, in the tokens of his love, ſo new to us, that we may ſay of him, He is not the ſame, he is changed; and will not ye ſons of <hi>Jacob,</hi> be reconciled? His old love to the Jews went onely thus far, that he com<g ref="char:EOLhyphen"/>pared himſelf to a Lord, who having let forth his Vine<g ref="char:EOLhyphen"/>yard,<note place="margin">
+                  <hi>Luke</hi> 20.14.16.29.</note> would demand fruit of the husbandmen, the firſt, ſe<g ref="char:EOLhyphen"/>cond, and third time, by his ſervants, yea laſt of all by his onely beloved Son; but when they ſhould not onely caſt away the Servants, but alſo kill the Son and Heir, that then he would no longer brook them, but deſtroy thoſe <hi>huſ<g ref="char:EOLhyphen"/>bandmen,
+<pb n="3" facs="tcp:48318:4"/>
+and give his vineyard to others<g ref="char:punc">▪</g>
+               </hi> Thus his old love to the Fathers would not endure them any longer; but to us now, when he hath been already murdered by our ſins, he ſeeks and ſues afreſh after he is riſen again. Which may be attractive, to move thoſe that are dead in ſin, to riſe again and embrace his motions, with all love to him<g ref="char:EOLhyphen"/>ſelfe, and reverence to his Apoſtles, and Miniſters.</p>
+            <p>It were much for a King, ſufficient in power, wiſdome, and goodneſſe, to caſt his affection on a foul, fooliſh, poore, peeviſh, and Rebellious Beggar; more, to offer himſelfe, by diverſe Meſſengers, to be thrice ask't unto her;<note place="margin">Chryſoſt. <hi>ad. popul.</hi> Antioch. homil. 48.</note> more after double and triple denyall, to come himſelf in Perſon, giving his blood to be ſhed, and his body to be ſlain by her and for her. But after ſo deadly feud, with a moſt curſed death, ſtill to riſe, and return with more love-tokens accumulated and annexed to his former ſuit; this is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, able, not onely to ſilence the tongues of the wiſ<g ref="char:EOLhyphen"/>eſt men, but alſo to dazle the eyes of the greateſt Angels. And yet now he doth thus woe and ſue to you all; inward<g ref="char:EOLhyphen"/>ly by his Spirit, outwardly by his Word, continually by all the Prophets, Apoſtles, and Miniſters thereof. <hi>And now then we are Ambaſſadours for Chriſt.</hi>
+            </p>
+            <p n="4">4. So that, if I, had time, I might amplifie this circum<g ref="char:EOLhyphen"/>ſtance of time with that of <hi>Moſes.</hi>
+               <note place="margin">Deut. 4.32</note> 
+               <hi>Aske now of the dayes that are paſt, which were before thee, ſince the day that God created man upon the earth; and aske from the one ſide of Heaven unto the other, whether there hath been any ſuch thing as this great thing is, or hath been heard like it.</hi> But leſt in hoiſing ſaile too high upon this adventure I ſhould ſuffer <hi>in portu naufragium,</hi> by incurring the blame of the long-tongu'd <hi>Roman</hi> Praetor,<note place="margin">Pogg. <hi>facet.</hi>
+               </note> who coming Em<g ref="char:EOLhyphen"/>baſſadour to <hi>Florence,</hi> was ſo tedious in rehearſing the oc<g ref="char:EOLhyphen"/>currents of his journey by the way, that the laſt houre of his Commiſſion was almoſt expired before he came to his Errand.</p>
+            <p>I ſhall briefly in this my meſſage propound unto you theſe three parts, wherein the Apoſtle offereth unto your obſervation, firſt the Perſons ſent in this meſſage, even o<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:48318:5"/>
+men like your ſelves; now ſuch we are.</p>
+            <p>Secondly, the meſſage itſelfe, even a ſolemne and ho<g ref="char:EOLhyphen"/>nourable Ambaſſage; <hi>now then we are Ambaſſadours.</hi>
+            </p>
+            <p>Thirdly, the Perſon, from whom, and for whom, this Embaſſage is ſent; no Son of Perdition, but the Son of Righteouſneſſe with healing under his wings;<note place="margin">M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lac. 4 2.</note> 
+               <hi>even the brightneſs, of his Fathers glory, which is Chriſt in you the hope of Glory;</hi>
+               <note place="margin">Coloſſ. 1 27.</note> 
+               <hi>now then we are Ambaſſadours for Chriſt.</hi>
+            </p>
+            <p>In the firſt of theſe, you may note Gods gratious condeſ<g ref="char:EOLhyphen"/>cention in ſending to you not after a ſtern or ſtately manner, by meanes of his dreadfull Angells, but familiarly, by the miniſtry of men,<note place="margin">James 5.17. 2 Cor. 1.4.</note> ſubject with you to the ſame paſſi<g ref="char:EOLhyphen"/>on of afflictions, and therefore to the ſame compaſſion of affection in all things. Now theſe we are.</p>
+            <p>In the ſecond, your felicity in being ſought unto, not as fu<g ref="char:EOLhyphen"/>gitives, or ſubjects, by common Meſſengers, or Nuntio's of mean note: But as free States, by Ambaſſadours of ſingular accompt, and authority; <hi>now then we are Ambaſſa<g ref="char:EOLhyphen"/>dours.</hi>
+            </p>
+            <p>In the third, our fidelity in ſtanding bound to execute this Function, not for any Son of man, the Lords annointed, but for the onely begotten Son of God,<note place="margin">Pſal. 45.7.</note> the Lord himſelfe, annointed with the oile of gladneſs above his fellowes, <hi>now then we are Ambaſſadours for Christ</hi>
+            </p>
+            <p n="6">6. Wherefore of theſe, while that I deliver my meſſage to point at ſome Character of our Divine and ſpirituall Embaſſour,<note place="margin">Jeson <hi>ad ver.</hi> Jovin. lib. 10.</note> reſolving with the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather, that I ſhall offend none that are good, <hi>quia eos peccati conſcientia non remor<g ref="char:EOLhyphen"/>debit:</hi> I hope, I ſhall not need ſtand long to intreat your patience and mod<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ration. It's the Law of Nature and Nations, to afford Ambaſſadours the patience of Audi<g ref="char:EOLhyphen"/>ence. And if any think much to yield me ſo much, the God of Nature and Grace enjoyns them more, upon the Allegi<g ref="char:EOLhyphen"/>ance they owe to his pleaſure, and their own peace.</p>
+            <p>According to our Apoſtles argument, in this place, <hi>that God was in Christ reconciling the World unto himſelfe, not inputing their treſpaſſes unto them, who hath com<g ref="char:EOLhyphen"/>mitted unto us the word of reconciliation;</hi>
+               <note place="margin">2 Cor. 5.19.</note> 
+               <hi>and now then
+<pb n="5" facs="tcp:48318:5"/>
+we are Ambaſſadours for Chriſt,</hi> So that firſt, we are to begin with ourſelves to conſider, who <hi>We</hi> are here meant by the Apoſtle, ſaying; <hi>Now then we are Ambaſſadours for Chriſt.</hi>
+            </p>
+            <p n="7">7. <hi>We,</hi> as magnificent Princes in their benefits and fa<g ref="char:EOLhyphen"/>vours conſider not ſo much the deſerts of their favourites, what they are worthy to receive,<note place="margin">Sen. de ben. lib. <hi>2.</hi> ep. <hi>16.</hi>
+               </note> as the dignity of their own fame, what is ſit and honourable for them to give; ſo the Lord here chuſeth us, and looketh upon you, ſeeing that <hi>we</hi> here are meant with a double exception. Firſt, general<g ref="char:EOLhyphen"/>ly, We, even men, excluding the Angels; which may ſeem very ſtrange, why the Lord ſhould ſo forget Majeſty, as to ſue to you with miſery by meſſengers of your own metall, rather then by his honourable Courtiers, the Angels of Heaven. Is it unkindneſſe, that the miniſtration of con<g ref="char:EOLhyphen"/>demnation might be more glorious,<note place="margin">2 Cor. 3.7, 8.</note> being delivered by Angels, then the miniſtration of righteouſneſſe delivered by men, your fellow-creatures? Or is it weakneſſe, becauſe he ſtands in need of our aſſiſtance to help him out at a dead liſt? Far be it from us to impute either of thoſe unto him, who is all-ſufficient. For ſpiritual ends he maketh uſe of corporal means, as a ſtately Potentate commanding for at<g ref="char:EOLhyphen"/>tendance, and not as a weak Agent, going a begging for aſſiſtance; for your convenience and congruity, not for our efficacy or condignity (as Saint <hi>Bernard</hi> ſaith excel<g ref="char:EOLhyphen"/>lently) it is his indulgence of his rich mercy,<note place="margin">In Cant Serm. <hi>5</hi>
+               </note> not his indi<g ref="char:EOLhyphen"/>gence of our poor Miniſtry.</p>
+            <p n="8">8. Indeed he gave the Law by Angels, but their appari<g ref="char:EOLhyphen"/>tions were alway ſo fearful to our nature, corrupt and con<g ref="char:EOLhyphen"/>ſcious of its own unworthineſſe, that the people ſeeing it fled, crying to <hi>Moſes</hi> for meaner Miniſters; talk thou with us, and we will hear, but let not God talk any more with us leſt we die. And the Lord anſwered, <hi>They have well ſaid,</hi>
+               <note place="margin">Deut. 5 27.28.</note> 
+               <hi>all that they have ſpoken.</hi> Whereupon <hi>Moſes</hi> propheſied ſhortly after,<note place="margin">Deut 18.15. Acts 3.21.</note> 
+               <hi>A Prophet ſhall the Lord your God raiſe up unto you from among your brethren, like unto me, him ſhall ye hear in all things.</hi> Which though it be intended principal<g ref="char:EOLhyphen"/>ly of Chriſt, yet it muſt be extended, ſecondarily, to the
+<pb n="6" facs="tcp:48318:6"/>
+whole ſesies and ſucceſſion of all his Prophets and Mini<g ref="char:EOLhyphen"/>ſters to the worlds end.<note place="margin">John 13.20. 1 Theſſ. 4.8.</note> So that he who contemnes ſuch weak inſtruments, and murmures againſt God, becauſe he is not taught with thoſe glorious apparitions and viſions of Angels under the Law, betrayes himſelf, in pride, to be a miſerable miracle; not unlike that fooliſh wanton in the Poet,<note place="margin">Ovid. Metam. lib. <hi>3.</hi>
+               </note> who deſiring <hi>Jupiter</hi> to come to her in the ſame glo<g ref="char:EOLhyphen"/>ry that he uſed to accompany with <hi>Juno,</hi> was in all her bravery conſumed and brought to nought. Which dan<g ref="char:EOLhyphen"/>ger might well be avoided, if people would remember, how God, in his goodneſſe toward them, hath deputed us to ſup<g ref="char:EOLhyphen"/>ply the room of his Angels. And <hi>now, then, we are Ambaſſa<g ref="char:EOLhyphen"/>dors for Chriſt.</hi>
+            </p>
+            <p n="9">9 Again, more particularly, we are here intended, who are the Apoſtles ſucceſſors,<note place="margin">Hieron ad C<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>anum.</note> even the right Reverend Bi<g ref="char:EOLhyphen"/>ſhops, with thoſe that are regularly conſtituted and ordai<g ref="char:EOLhyphen"/>ned by them to this miniſtration. Touching which, an old Stateſman hath left this ſound note; <hi>Non eſt ars ſui juris, cui precarium fundamentum eſt;</hi>
+               <note place="margin">Sen ad <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>lium ep. <hi>89</hi> Tert. de preſer. cap <hi>20.</hi> Vinc. Li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. ca. <hi>16</hi>
+               </note> and an old Churchman hath given us as good a rule, <hi>Omne genus ad originem ſuam cenſcatur neceſſe eſt.</hi> So then, though ſome admirers of their own devices brag much of their own antiquity, <hi>
+                  <g ref="char:V">Ʋ</g>bi ſemper fuit plus admirationis, quam utilitatis, plus famae, quam experientiae;</hi> yet we, that know their extraction, <hi>In<g ref="char:EOLhyphen"/>tus &amp; in cute,</hi> are ſure that they crept up at firſt <hi>preca<g ref="char:EOLhyphen"/>rio,</hi> intreating toleration in that ſtreight, which was then made a caſe of neceſſity. And now that they, who at firſt were content to be held tolerable, ſhould miſtake this for the incomparable <hi>Helena,</hi> or rather implacable <hi>Bellona</hi> of the age, for which they ought to ſtrive, <hi>tanquam pro aris, &amp; focis;</hi> and thence take upon them to preſcribe againſt all Churches for intolerable, that are not clipt by their mould, this is ſuch a ſtraine of ingratitude, that can hard<g ref="char:EOLhyphen"/>ly be digeſted by any who have well concocted the Anti<g ref="char:EOLhyphen"/>dote of Saint <hi>Auſtin,</hi>
+               <note place="margin">Confeſſ l. <hi>10.</hi> c. <hi>28</hi>
+               </note> 
+               <hi>Nemo quod tolerat amat, et ſi tolerare amat;</hi> No man loves that which he tolerates; although he loves for a while to make a vertue of neceſſity in tolera<g ref="char:EOLhyphen"/>ting it, yet he could be glad, fairly to be freed from that
+<pb n="7" facs="tcp:48318:6"/>
+neceſſity which bindes him to ſuch toleration.<note place="margin">Luther, Calvin, Zanch. Beza, Scultet. Moulin.</note> As divers of the more learned, judicious, and moderate, among themſelves, have confeſſed, not onely in their private con<g ref="char:EOLhyphen"/>ferences, but alſo in their publick writings.<note place="margin">John 10 1.</note> And therefore ſeeing that we deſire, endeavour, and frame our ſelves by entring in at the doore, and not climbing up any other way, to retain the Ancient, Regular, Canonical, and Apoſto<g ref="char:EOLhyphen"/>lick diſcipline of the Church; <hi>Now then we are Ambaſſadours for Chriſt.</hi>
+            </p>
+            <p n="10">10. Ambaſſadours, There is no need to hunt after any various acception of the word in the Originall, or other languages, as ſavouring of curioſity more Critical then Chriſtian. It is enough to our purpoſe, that the <hi>Romans</hi> gave this Title of Legates eſpecially to two ſorts of men. Both to thoſe that were Lievtenants, and Aſſiſtants to their Conſuls and Generals, in their Provinces and Wars; and to thoſe that under aſſurance of Publique Faith, eſta<g ref="char:EOLhyphen"/>bliſhed by the Law of Nations, were employed with dignity to repreſent their Lords perſons, and with authori<g ref="char:EOLhyphen"/>ty to negotiate with forreigne Princes and States touching their affaires.</p>
+            <p n="11">11. So that here, by the way, both theſe are ſufficient, to ſtop the paſſage and proceeding of thoſe arreptitious En<g ref="char:EOLhyphen"/>thuſiaſts,<note place="margin">1 Reg. 13.33.</note> who delighting in <hi>Jeroboams</hi> Reign cared not for this, but whoſoever would fitted his hand, and he conſecra<g ref="char:EOLhyphen"/>ted them, and ſo they had leave to make themſelves, of the loweſt of the People, Prieſts of the higheſt Places. It will be in vain for ſuch haſtings to run with <hi>Ahimaaz</hi> before they are ſent &amp; have any true tidings to bear,<note place="margin">2 Sam. 18, 27.29.</note> though ſome de<g ref="char:EOLhyphen"/>mure carriage may cauſe ſome of them to be miſtaken; (as he was) for good men bring good tydings; yet their own tongues (like his) will in the relation argue them capable of nothing, but making a noiſe and tumult. Of which alſo ſeeing themſelves at length, with <hi>Ahimaaz,</hi> are driven to confeſſe that they know not what it means, all who know what our Apoſtle means by ſuch as turn aſide <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">1 Tim 1.6.</note> may well relinquiſh them with thoſe, <hi>That would feign be counted Doctours of the
+<pb n="8" facs="tcp:48318:7"/>
+Law,</hi>
+               <note place="margin">1 Tim. 1.7</note> 
+               <hi>and yet they underſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d not what they ſpake, nor whereof they affirm.</hi> What will it avail them with the <hi>Gibeonites, to work wilily, and to counterfeit themſelves Ambaſſadors, with old ſacks on their aſſes, and wine bot<g ref="char:EOLhyphen"/>tles,</hi>
+               <note place="margin">Joſh 9.4, 5, 6.</note> 
+               <hi>old, rent, and bound up, with old ſhooes, and clout<g ref="char:EOLhyphen"/>ed on their feet, with old cloaths on their backs, and all the bread of their proviſion dry and mouldy, as though they came from far?</hi> ſeeing that when they are found, upon due examination, to be only meer <hi>conterranean</hi> Natives, of the illiterate pragmatick ſanction round about; wiſe &amp; faithful <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhua</hi> may ſurly judge them to be fitly dealt with,<note place="margin">Joſh 9.21 27.</note> in be<g ref="char:EOLhyphen"/>ing alotted the task of the Gibeonites, with which ſome of their trades have made them already ſo long acquainted, that it needs not here any further enlargement, but onely to give them this <hi>Item,</hi> That when they ranted it at the higheſt, none of them durſt then take upon him the office <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Legate, either in Martial or Mercurial expeditions, without ſpecial commiſſion from the General, notwith<g ref="char:EOLhyphen"/>ſtanding their pretended rare and excellent parts. And muſt the office of Chriſts Ambaſſadors be proſtituted to the luſt of every one's intruſion, when we are taught by his Word and Example,<note place="margin">Heb. 5 4, 5.</note> 
+               <hi>That no man taketh this honour unto himſelf, but he that is called of God, as was Aaron; And ſo Chriſt alſo glorified not himſelf, to be made an high Priſt, but he that ſaid unto him, Thou art my ſon, this day have I begot<g ref="char:EOLhyphen"/>ten thee?</hi>
+               <note place="margin">Apoc 9.11.</note> Surely this was the craft of the cruel Angel of the bottomleſſe pit, the great <hi>Apollyon,</hi> to turn all things upſide down, by croſſing and confounding all orders; and no good could be thence expected from the hands of ſuch deforming Reformers;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap. l. <hi>1</hi> ep. <hi>7.</hi>
+               </note> where (as the bleſſed Martyr complaineth) <hi>Contractare praeſumunt pudorem inceſti, fidem perfidi religionem prophani, divina terreni, ſancta ſacrilegi.</hi> But ſeing that (as his Maſter hath noted) the moſt exerciſed in the Scripture cannot loſe any thing by them, <hi>Niſi vocem in contentione;</hi>
+               <note place="margin">Tertal dep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſcript cap. <hi>17.</hi>
+               </note> nor get any thing by them, <hi>Niſi bilem de blaſplematione,</hi> we leave them who have no leave of God to uſurp this calling; and ſo paſsing by the former kinde of Legates in war, pitch upon the latter of thoſe in peace,
+<pb n="9" facs="tcp:48318:7"/>
+which more properly concern us, who, by Gods bleſſing, are now therein <hi>Ambaſſadours for Chriſt.</hi>
+            </p>
+            <p n="12">12. Where, of theſe again, we have evident reſemblance in two ſorts of Ambaſſadors, much made of for tranſacting the high myſteries in Princes Courts. Either ſuch as are ſent for ſome rare and extraordinary affair, with moſt coſt and ſtate, being to return again as ſoon as that buſineſs is diſpatched (like to whom we ſuppoſe thoſe extraordinary Prophets under the Law, and thoſe miraculous and imme<g ref="char:EOLhyphen"/>diately gifted perſons in the primitive dayes of the Goſpel) or elſe ſuch as are called <hi>Ligiers,</hi> and <hi>Legates à latere,</hi>
+               <note place="margin">1 Cor. 14.12.</note> who lie longer by it, upon all occaſions, during the pleaſure of their Prince; like to whom we conceive the high Prieſts, with the reſt of the Prieſts and Levites under the Law, and ſince under the Goſpel,<note place="margin">Hier. ad Euagr.</note> the Apoſtles and their ſucceſ<g ref="char:EOLhyphen"/>ſors, even Biſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps, with their Presbyters and Deacons, in their Cathedral and Parochial employments.</p>
+            <p n="13">13. Yet ſo, that herein we finde this difference, that worldly Pirnces have alwayes uſed this proviſo, <hi>Nec a ſub<g ref="char:EOLhyphen"/>ditis, nec ad ſubditos rectè mittuntur legati.</hi> They that are ſent by a Prince into his own Dominions are called <hi>Com<g ref="char:EOLhyphen"/>miſſioners;</hi> and thoſe whom Subjects ſend to their Sovereign Lords, are called <hi>Deputies;</hi> but to vouchſafe the title of <hi>Ambaſſadors</hi> to any ſuch, was a name ſo harſh to the ſtate<g ref="char:EOLhyphen"/>ly ears of worldly States, that <hi>Tully</hi> counted it, not onely fooliſh lightneſſe, but open madneſſe. Inſomuch,<note place="margin">Phil. 5, &amp; 6.</note> that in his <hi>Philippicks,</hi> he ſharply reproved the whole Senate for debaſing the majeſty and ſeverity of their Order, in ſend<g ref="char:EOLhyphen"/>ing Ambaſſadors to <hi>Mark Antony,</hi> forgetting that a rebel<g ref="char:EOLhyphen"/>lious ſubject was to be enforced by legions, rather then to be intreated by Legates. Nay, ſome Chriſtians now adays will ſcarce vouchſafe Ambaſſadors to Princes, who are not of ſo ſupreme and ſovereign ſtate as themſelves, but they call their Meſſengers rather by the name of Agents.</p>
+            <p n="14">14. Which the more I conſider, the more I admire, and ſtand amazed at the meek and ſhumble condeſcenſion of our gracious Maſter, <hi>Chriſt Jeſus, Lord, what is man,</hi>
+               <note place="margin">Pſalm 8.4.</note> 
+               <hi>that thou art mindfull of him? or the ſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of man, that thou ſo re<g ref="char:EOLhyphen"/>gardeſt
+<pb n="10" facs="tcp:48318:8"/>
+him?</hi> to grace him with thy Miniſtery, like <hi>Aoth,</hi> that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Hieron. aduerſ. Jovin. lib. <hi>1.</hi>
+               </note> to be thy Ambaſſador on both hands, in prayer from men to thee, in preaching from thee to them. In both theſe reſpects, thou haſt made us ſomewhat ſupe<g ref="char:EOLhyphen"/>riour to the Angels, and little inferiour to thy Self. <hi>O that men would praiſe the Lord for his goodneſs, and for his won<g ref="char:EOLhyphen"/>derfull works to the children of men.</hi>
+               <note place="margin">Pſal. 107.</note> Chriſt himſelfe hath noted concerning others, that there is no wiſe King going to <hi>war againſt another King,</hi>
+               <note place="margin">Luc. 14.31, 32</note> 
+               <hi>that fitteth not down firſt, and conſulteth, whether he be able with ten thouſand to meet him that cometh againſt him with twenty thouſand. Or elſe, while the other is yet a great way off, he ſendeth an ambaſſage, and deſireth conditions of peace.</hi> And does he himſelf, who is able to come againſt us with more then twenty thouſand thouſand chariots of Angels,<note place="margin">Pſal. 68.17. Job 9.3.</note> now ſend his ambaſſage to us his unworthy vaſſals, deſiring conditions of peace with ſuch vile rebels, who are not able to meet, and anſwer him with one for a thouſand? Is this ambaſſage then (my bre<g ref="char:EOLhyphen"/>thren) for his own ſake, becauſe he feareth us, or is it not rather for our ſake, becauſe he loveth us? even for your ſake, doubtleſs, it is written, that ye ſhould ever remem<g ref="char:EOLhyphen"/>ber to accept and ſtand to the covenant and conditions that we bring from him,<note place="margin">Gal. 4.14.</note> receiving us, as the <hi>Angels of God,</hi> even as <hi>Chriſt Jeſus,</hi> and whenſoever we tender unto you his word of reconciliation, that <hi>ye receive it, not as the word of men,</hi>
+               <note place="margin">1 Theſſ. 2.13.</note> 
+               <hi>but (as it is in truth) the word of God, which effe<g ref="char:EOLhyphen"/>ctually worketh in them that believe.</hi> For this is here more fully warranted to be expreſſed further in the next word. <hi>And now then we are Ambaſſadors for Chriſt.</hi>
+            </p>
+            <p n="15">15. For Chriſt, as the worthineſſe of the Prince that ſends them makes much for the dignity of his Ambaſſadors; ſo the weightineſs of the buſineſſe addes more to their ac<g ref="char:EOLhyphen"/>ceptance and entertainment with the Prince and people to whom they are ſent.</p>
+            <p>
+               <hi>Now then we are Ambaſſadors for Chriſt both wayes.</hi>
+            </p>
+            <p>Firſt, We are Ambaſſadors ſent from Chriſt as the <hi>pri<g ref="char:EOLhyphen"/>mum mobile</hi> in this motion, even in his room and ſtead: As if the Apoſtle had ſaid, according to <hi>Chryſoſtome,</hi> what
+<pb n="11" facs="tcp:48318:8"/>
+Chriſt himſelfe ſhould and would have done, if he had been preſent, that he hath ſent us to undertake,<note place="margin">In locum.</note> and exe<g ref="char:EOLhyphen"/>cute in his Room. And as God the Father before entreat<g ref="char:EOLhyphen"/>ed us by his Son; ſo Chriſt his Son now intreateth you by us, as unfeignedly and effectually as if himſelfe ſpake our language with his own mouth,<note place="margin">Pſal. 45.1</note> and ſubſcribed to every ſen<g ref="char:EOLhyphen"/>tence with his own hand and ſeal.</p>
+            <p n="16">16. Again we are Ambaſſadours for Chriſt,<note place="margin">2 Cor. 4.5.</note> as the end and object of our Ambaſſage, to intreate and negotiate on his behalfe, and for his buſineſſe. As who ſhould ſay, ac<g ref="char:EOLhyphen"/>cording to St. <hi>Ambroſe, Since our Parſon is in Heaven,</hi>
+               <note place="margin">In locum.</note> 
+               <hi>we are his Vicars upon Earth; to ſeek and ſue him out a wife, even the Church his ſpouſe,</hi>
+               <note place="margin">2 Cor. 11.2.</note> 
+               <hi>to preſent her as a pure Virgin unto Chriſt.</hi> And that not upon whatſoever conditions fancy her, or humour us, <hi>to doe every own whatſoever ſeemeth good in his own eies</hi> (as if we had neither God nor King to reign over us) but upon thoſe which himſelfe hath either explicitely appointed,<note place="margin">Deut. 12.8. Jud. 17.6. Jud. 21.25.</note> or implicitely approved in the grand commiſſion of his revealed Word. By the Civil Laws, as it is high Treaſon,<note place="margin">Tul. pro <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ox. Roſ. Amer.</note> for an Ambaſſadour to go beyond his Commiſſion; ſaying, I have done wiſer and better then I was commanded; ſo its impudent rebellion to come ſhort of his Commiſſion; ſaying it was fooliſh and needleſſe to do ſo much as I was enjoyned.</p>
+            <p>Againſt ſuch preſumption hiſtories are fraught with ex<g ref="char:EOLhyphen"/>amples, not onely of divers Princes,<note place="margin">Bodin. de repub. lib. <hi>3.</hi>
+               </note> that have puniſhed their greateſt ſervants, but alſo of ſome parents who have abandoned their deareſt Sons for ſuch contempt. The old rule in Policie is now out of date, and ſhall have no room with God in matters of piety; <hi>mitte ſapientem, &amp; nihil dicito.</hi>
+            </p>
+            <p>The Lord our God hath not ſent us,<note place="margin">Tacit. Annal. lib. <hi>1.</hi>
+               </note> as the Emperor <hi>Ti<g ref="char:EOLhyphen"/>berius</hi> ſent <hi>Druſus, nullis certis mandatis, ex reconſulturos;</hi> but for the matter of our Embaſſage, he hath butted, and bounded our commiſſion within the compaſs of his written word: Accordivg to that ſtrict and fearful charge,<note place="margin">
+                  <hi>Vin. li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. cap.</hi> 12 Gal. 1.8, 9.</note> not only including the whole <hi>chorus</hi> of his Apoſtles; But alſo reach<g ref="char:EOLhyphen"/>ing to all the company of his mighty Angels, by that im<g ref="char:EOLhyphen"/>poſſible ſuppoſition; <hi>Though we, or an Angel from Heaven
+<pb n="12" facs="tcp:48318:9"/>
+preach any other Doctrine then what we have received, let him be accurſed.</hi>
+            </p>
+            <p>If we, for our own ends, take upon us to pick and chuſe in Gods Commandements, which we will promote, and which put down,<note place="margin">
+                  <hi>Iſa.</hi> 33.7.</note> the Angels of peace on earth will be driven for this to weep biterly, But if we be faithfull in our charge, without partiality, to have reſpect to all Gods Comandemements; the Angels of Glory in Hea<g ref="char:EOLhyphen"/>ven will be ready to rejoice and greet us, with their right hands of fellowſhip, againſt all affronts and oppoſition, that therefore <hi>now we are Ambaſſadours for Christ.</hi>
+            </p>
+            <p>By which it is evident, how far we ought to be from the inſolence of thoſe, which under this claime of Chriſts Ambaſſadours, for their own pride, and primacy in tempo<g ref="char:EOLhyphen"/>rals, play the parts of the deepeſt plotters, and polititians: intelligencers and incendiaries; ſeducers and ſubverters in the World; when as in the mean while, for ſpirituals, they mind nothing ſo much as by purgatory tra<g ref="char:EOLhyphen"/>ditions of addition, and expurgatory indices of ſub<g ref="char:EOLhyphen"/>ſtraction, to m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r all. But why ſhould I tear the time about thoſe that are abſent? I am called hither for you that are preſent; wherefore in Gods name, give me leave, for Chriſts ſake, in this mixt Auditory, to do my Errand to you all, according to your ſeveral callings and this our ſpeciall Commiſſion; wherein now we are to approve our ſelves Ambaſſadours for Chriſt.</p>
+            <p n="18">18. Firſt then, to the Right Reverend Fathers in Chriſt, our wiſe and worthy Governours, here may be a motion very neceſſary in theſe dayes, wherein none are ſent for Ambaſſadours to Earthly Princes, ſave thoſe that have paſt through the higheſt degrees of deſert and dignity. O that they would admit of ſome caveat touching thoſe, who are ſo far from honouring this calling in others, that they like it in their own children who affect it far worſe; unleſs it be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> under this colour, hoping to beguile God, and blinde the eyes of the World, with two other kindes of Ambaſſage long a goe ſcorn'd and ſcoft at by the <hi>Ro<g ref="char:EOLhyphen"/>means.</hi>
+            </p>
+            <pb n="13" facs="tcp:48318:9"/>
+            <p n="19">19. They had a kind of Ambaſſage called <hi>honeſta Lega<g ref="char:EOLunhyphen"/>tis,</hi> becauſe it was beſtowed on thoſe to whom they would not offer the utmoſt diſgrace of an Exile: and this Court trick, <hi>Tacitus</hi> ſaith,<note place="margin">Annal.</note> that Crafty <hi>Tiberius</hi> put upon the deſpiſed <hi>Agrippa,</hi> ſending him away with the title of Ambaſſadour, that he might rid him far off from the Court. Now we may meet with many parents, in theſe daies, which though they have little holineſs, are yet full of this kinde of honeſty. When their Children are ſtammerers, dolts, blinde or lame, in body, or, which is worſe, in minde, they will pur<g ref="char:EOLhyphen"/>chaſe them ſome place of profit in the Church, to rid them<g ref="char:EOLhyphen"/>ſelves, and the Country, from being further troubled. But who is ſo blinde that ſees not; as when the <hi>Romans</hi> ſent three Ambaſſadours into <hi>Bithynia,</hi> whereof the firſt had his head full of gaſhes, the ſecond was lame of the Gout,<note place="margin">Pl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in Catone</note> and the third was a fool: that wiſe <hi>Cato</hi> well mocked them for ſending an Ambaſſage, that had neither head, nor foot nor heart; even ſo <hi>Solomon</hi> teacheth us to ſleight and ſhake oft theſe; <hi>He that ſendeth a meſſage by the hand of a Fool,</hi>
+               <note place="margin">Prov 26 6, 7.9</note> 
+               <hi>is as one that cutteth off the Legs, and drinketh iniquity. The legs of the lame are not equal; ſo is a parable in the mouth of Fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les.</hi> Nay, <hi>as a Thorne goeth up in the hand of a drunk k<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> (who knows not when it came in; nor how to get it out) <hi>ſo is a Parable in the mouth of Fooles.</hi>
+            </p>
+            <p n="20">20. The other Kind of Ambaſſage was called <hi>libera Le<g ref="char:EOLhyphen"/>gatio,</hi> becauſe it was conferr'd on perſons of quality, that they might be more highly reſpected abroad under this Commiſſion &amp; ſuffered more freely in forreign Countries to follow their own purpoſes under favour of the Law of Nations. So too many worſhipfull Patrons, and ſome Country miſers, with right of preſentations, when they have many children (for whom they will by all means <hi>prole</hi> what they can) are very greedy to thruſt ſome of them into the miniſtery, like as <hi>Stratocles</hi> and <hi>Dr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>moclidas</hi> were ſent <hi>in rempublicam tanquam ad auream meſſem,</hi>
+               <note place="margin">Plut depraecept. reipubl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger.</note> not ſo much for God as for <hi>Mammon</hi>'s ſake, that they may en<g ref="char:EOLhyphen"/>groſſe all the Church-preferments in their gifts, which they wil not by any meanes impart to others (though far better
+<pb n="14" facs="tcp:48318:10"/>
+deſerving) but under the double crime of Bribery and perjury. A courſe contrary to the Law of Nations, <hi>ut qui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſua reiergo legatus eſto;</hi> contrary to the Law of Nature, <hi>quid enim turpius,</hi>
+               <note place="margin">Tull. de de Leg. lib. <hi>3.</hi> Iſaiah <hi>56 11.</hi> Tull. ubi ſupra.</note> 
+               <hi>quam ſine procuratione ſenator, legatus ſine mandatis, ſine ullo reipublicae muner<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> contrary to the Law of God, who proteſts that he will by no meanes endure thoſe that look after their own intereſt, every one for his own gain from his quarter. Wherefore, as the Roman O<g ref="char:EOLhyphen"/>rator writeth, that he would have taken this kind of Em<g ref="char:EOLhyphen"/>baſſy utterly away, if he had not been ſtrongly oppoſed, but for all that, he brought it from perpetuall, to be only annuall: So it were to be wiſhed, that our Governors would curb and cut ſhort ſuch Ambaſſadors among us which un<g ref="char:EOLhyphen"/>dertake this Charge, but ſeldome do diſcharge it, unleſſe it be for their own ends;<note place="margin">Phil. 1.15.16. 1 Tim. 3.5.</note> ſome for conſtraint, others for contention: ſome for envy, others for ambition: ſome for luſty liquor, others for filthy lucre, but few of a ready mind, for Chriſts ſake. Whereas he ſhould be the <hi>Alpha</hi> and <hi>Omega;</hi> the firſt and the laſt, the author of our Com<g ref="char:EOLhyphen"/>miſſion, and the end of our calling, withal our carriage therein. And therefore <hi>now we are Ambaſſadours for Chriſt.</hi>
+            </p>
+            <p n="21">21. I come next to you my dear Brethren and Col<g ref="char:EOLhyphen"/>leagues in this charge. You ſee how God hath graced you by calling and counting you ſerviceable, putting you into the Miniſtery; O let it be your ſtudy, to ſeek eſpecially for that double qualification commended from the higheſt Court of Faculties,<note place="margin">Mat. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.</note> that herein wiſdom and faithfulneſſe may meet together;<note place="margin">Chriſoſt. de ſa<g ref="char:EOLhyphen"/>cerd. l. <hi>2</hi>
+               </note> that diſcretion and Devotion may ſhake hands; that learning and labour may kiſſe each o<g ref="char:EOLhyphen"/>ther.<note place="margin">Bern in Cart. ſer. <hi>23.</hi>
+               </note> You muſt be wiſe, leſt you be deceived your ſelves, and faithfull, leſt you deceive others; you muſt be diſcreet to temper your devotion, and devout, to make uſe of your diſcretion;<note place="margin">Hieron ad Oce<g ref="char:EOLhyphen"/>an</note> you muſt be learned, that you labour not at randome, and laborious, that you learn not in vain. All theſe muſt agree at all times, but eſpecially in providing matter,<note place="margin">Pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v 10 26.</note> with premeditation, before you do your Am<g ref="char:EOLhyphen"/>baſſage; in ordering it with moderation when you utter it; and confirming it with reſolution, when you have ended it</p>
+            <pb n="15" facs="tcp:48318:10"/>
+            <p n="22">22 Concerning the firſt, ye know that the dayes are now paſt, and the perſons dead, to whom it was ſaid,<note place="margin">Mat. 10 19. Mat. 13.52.</note> 
+               <hi>dabitur in illa hora;</hi> but we are compared to the good houſholder, <hi>which bringeth forth out of his treaſury things new and old;</hi>
+               <note place="margin">Jer. 48.10. Maat. 12.36</note> being ſubject otherwiſe, <hi>not onely to the curſe of him, that doth the work of the Lord negligently, but alſo to the confu<g ref="char:EOLhyphen"/>ſion of him that for every idle word which he ſhall ſpeake in any place, eſpecially out of the Pulpit,</hi>
+               <note place="margin">Hieron. ad Fabiol. de veſte ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cerd.</note> 
+               <hi>ſhall be ſure to be called to a ſtrict acco<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mt at the day of judgement.</hi>
+            </p>
+            <p>Now then if the judicious have well noted it for a ſingu<g ref="char:EOLhyphen"/>gular token of great love and reverence in the famous <hi>De<g ref="char:EOLhyphen"/>moſthenes,</hi> and <hi>Auguſtus Caeſar,</hi> toward their people,<note place="margin">Plut. et Sene<g ref="char:EOLhyphen"/>tan.</note> that though they could both ſpeake handſomly extempore yet they would never propound any thing in publick to their Auditors without due premeditation; nay, if Chriſt him<g ref="char:EOLhyphen"/>ſelf had not at every turn his mouth alwayes open,<note place="margin">Mat. 5.1.2.</note> but as deliberating in ſilence on that which he was to ſpeak, <hi>when his Diſciples came to him, being ſet in the mount, then he open'd his mouth and taught them;</hi> what a token of neglect, ſcorn and irrevence muſt it be both to God and men, when ſome that are ſcarce fit to ſpeak in publick with premedita<g ref="char:EOLhyphen"/>tion, dare openly proclaime their own raſhneſſe, with this evil and idle proteſtation? That they have had little or no time to provide themſelves; many of their trim points came into their heads ſince they began to open their mouths, and yet they can do thus many hours upon any day.<note place="margin">Hieron. Pammich ad. verſus error. Joh. Hirroſ.</note> 
+               <hi>Quaſi ingenium <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n numerato haberent; adeo ut de cunctis eccleſiae quaeſtionibus uno linguae rotatu ſole clariùs coruſca<g ref="char:EOLhyphen"/>rent.</hi> (Beſides that ſuch <hi>ex-tempore</hi> Declaimers, by making too much haſte, are prone to ſtumble at any errour, and when they have fallen upon it, ſome become broody to hatch and hurke, it up into a hereſy; <hi>Is</hi> not this, in the Fathers language, <hi>diſſipare bona Domini,</hi>
+               <note place="margin">Bern. de coſider.</note> 
+               <hi>potius quam diſ<g ref="char:EOLhyphen"/>penſare?</hi> marvel not that I call this evil, becauſe it doth other Ambaſſadors this injury among all their auditors bred in ignorance, that hence they are ready to condemne all for drones, and dumb dogs, who are not ſo ſudden and ſlippery-tongued as theſe men.</p>
+            <p>
+               <pb n="16" facs="tcp:48318:11"/>I ſay further, that it is idle, becauſe it doth themſelves this juſtice among the learned, to anſwer ſuch glorioſo's, with the magnificat of <hi>Apelles</hi> to the Painter who boaſted of his picture,<note place="margin">Plut de educan. liberis. Sueton in Julio. Lapſ. epiſt. <hi>65.</hi>
+               </note> that he made it on the ſudden, <hi>Video tacente etiam te, ſed id miror, quòd non plures tales tanto temporis ſpatio pinxeris.</hi> In theſe affairs we muſt not brag of <hi>Julius Caeſars</hi> expedition, <hi>Veni, vidi, vici,</hi> leſt we be tuckd up with <hi>Julian Caeſars</hi> exprobration, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>vidi, legi, damnavi.</hi> And leſt we be compared, not onely to <hi>Demades</hi> Bagpipes, which being puffed up with wind, as ſoon as they are preſſed break forth preſently into ſqueaking;<note place="margin">
+                  <hi>Epiſt</hi> 61.</note> but alſo to <hi>Lipſius</hi> Chameleons, which becauſe they feed on no ſolid meat,<note place="margin">Plu Apoth lac.</note> but on the empty air, are ſtill found with open mouths, alwayes gaping <hi>Quid tanto dignum fe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> promiſſo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hiatu?</hi> unleſſe it be to carry home from their Auditors no better anſwer then either that of the Seniour King <hi>Agas</hi> to the Ambaſſadors of the <hi>Abd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rites</hi> and <hi>Perin<g ref="char:EOLhyphen"/>thians;</hi> tell your Maſters, that as long as you pleaſed to ſpeak, ſo long I thought good to hold my tongue. Or that of the French King to a talkative <hi>Italian,</hi>
+               <note place="margin">Pluta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Ibid.</note> 
+               <hi>Venis de natione verborum;</hi> or that of the <hi>Spartans,</hi> to the tedious and need<g ref="char:EOLhyphen"/>leſs ſpeech of the <hi>Samnites,</hi> that they had forgot the begin<g ref="char:EOLhyphen"/>ning, underſtood not the middle, and diſliked the end. <hi>How much better were it for us to ſtand in awe of the Lords owne warning?</hi>
+               <note place="margin">Jer. 23 28.</note> 
+               <hi>the Prophet that hath a dream, let him tel a dream, &amp; he that hath my word, let him ſpeak my word faithfully.</hi> That we may not be,<note place="margin">2 Cor 2.17.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>but that as of ſincerity, but that as of God, in the ſight of God we may ſpeak in Chriſt;</hi>
+               <note place="margin">Pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t de multit. a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> let us in our preaching ſtrive to equal the care and diligence of the acurate <hi>Xeuxis,</hi> in his painting; when being challenged for being ſo long about it, he made an<g ref="char:EOLhyphen"/>ſwer, that he was therein the longer, that his works might laſt the longer. So let us be ſtudious to beſtow the longer t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me in delineating and portraying our works, that they may be more ponderous and powerfull to make the deep<g ref="char:EOLhyphen"/>er impreſſion,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2, 3.</note> and laſt the longer, engraven, not in tables of wood, or ſtone, but in the fleſhy tables of mens hearts. And ſo theſe ſhall prove our letters of credence, knowne
+<pb n="17" facs="tcp:48318:11"/>
+and read of all men; that therein <hi>now we we are ambaſſa<g ref="char:EOLhyphen"/>dors for Chriſt.</hi>
+            </p>
+            <p n="23">23. Next, it is meet to adde thereto Moderation, in ad<g ref="char:EOLhyphen"/>dreſſing our ſelves diſcreetly, according to the circumſtan<g ref="char:EOLhyphen"/>ces of time, place, and perſons with whom we have to do. Inreſpect of the time, as it is a caveat in State-affairs;<note place="margin">Plut. in Demo.</note> 
+               <hi>Menti<g ref="char:EOLhyphen"/>tur legationem, qui nomen legationis non praefert ſuo tempore.</hi> So <hi>Demoſthenes</hi> ſaid well to this purpoſe, We give them not ſwords, or weapons of war to manage, but words. Of which <hi>Solomon</hi> tells us fitly, that a <hi>word ſpoken in due ſeaſon,</hi>
+               <note place="margin">Prov. 15.23. &amp; 25.11.</note> 
+               <hi>is like apples of gold in pictures of ſilver.</hi> To make us careful in obſerving the opportunity of the time, in taking heed of their miſcarriage, who deſpiſing that of the wiſe,<note place="margin">Eccleſ 22.6.</note> 
+               <hi>Muſi<g ref="char:EOLhyphen"/>ca in luctu importuna narratio,</hi> long alwayes to run counter to the time, turning faſts into feſtivals, and feſtivals into fa<g ref="char:EOLhyphen"/>ſtings, as if they were led with the ſpirit of contradiction againſt all that comes under the injunction of ſuperiour authority. Leſt we be ſlighted, as the Trojan Ambaſſa<g ref="char:EOLhyphen"/>dours were in coming to bemoan the Emperour <hi>Tiberius</hi> for the death of his ſon, when he took it to be too late, and therefore jeered them with this anſwer,<note place="margin">Sueton in Tiber.</note> That he much more condoled with them for the loſſe of their excellent Citizen, the valiant Hector, dead indeed many hundred years before any of them were born. Whence we ſhould pray unto the Lord God from morning to morning,<note place="margin">Iſa 50.4.</note> to <hi>give us the tongue of the learned, that we may know how to ſpeak a word in ſeaſon to him that is weary.</hi>
+            </p>
+            <p n="24">24. Again, in reſpect of the place, though it be true, that the place honours not the man;<note place="margin">Ageſilaus.</note> yet it was the ſaying of a great and witty King, That a wiſe man will be carefull to honour his place. The neglect whereof hath been noted to have blemiſhed ſome, otherwiſe, of worth, that being called to do their meſſage <hi>ad clerum,</hi> who deſerve <hi>non mo<g ref="char:EOLhyphen"/>do ſcripta, ſed etiam ſculpta,</hi> have marr'd a good tale in tel<g ref="char:EOLhyphen"/>ling it, feeding them with ſuch indigeſted crambes &amp; coria<g ref="char:EOLhyphen"/>ted crudities, as were unſeemly to trifle with young ſchool<g ref="char:EOLhyphen"/>boyes, much more unworthy to tire out judicious men of ripe age &amp; profound underſtanding. And again, being ſent
+<pb n="18" facs="tcp:48318:12"/>
+               <hi>ad populum,</hi> who require (as Saint <hi>Auſtin</hi> ſaith) <hi>Nutrito<g ref="char:EOLhyphen"/>ria potius,</hi>
+               <note place="margin">De catech. rud. c <hi>15.</hi> &amp; lib. <hi>2.</hi> de adverſ legis Sueton in octav Tacit. annal lib <hi>1.</hi>
+               </note> 
+               <hi>quàm peremptoria;</hi> or (as S. <hi>Bernard) Apta, non alia,</hi> have either foiled them with the ſtrong-lin'd ex<g ref="char:EOLhyphen"/>travagances of <hi>Antonius, Quae homines mirentur potius, quam intelligant;</hi> or elſe puzled them with the cu<g ref="char:EOLhyphen"/>rious impertinent digreſſions of <hi>Tiberius,</hi> fuller of dignity then of fidelity, ſtanding upon nothing ſo much as the duties and defects of our Ambaſſadors, when there have been none of that function there preſent to hear them, but onely the leering croud of their popular Corona, to laugh at them in their ſleeves, for ſeeking to curry favour with them, by picking ſo many holes in their owne coat. Which makes ſome of them ſuſpect, if there were a con<g ref="char:EOLhyphen"/>vention of Chriſts Ambaſſadors in preſence, that they would not be ſo bold As the <hi>Spartan</hi> ſaid to the <hi>Theban,</hi> which upon the victory at <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ctra</hi> glo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed againſt his countrey-men,<note place="margin">Plutar. incert. Apo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h.</note> ſaying, <hi>Where now are the Spartans?</hi> friend, all that hear you may be ſure; that they, after whom you are ſo inquiſitive, are far enough off, elſe you durſt not be ſo audacious. Wherefore it were good for ſuch hot-ſpurs to be ſuſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mminated, that they may ſlack their careere, and liſten more ſoberly to the ſage vote of <hi>Radolf</hi> Lord of the <hi>C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nes,</hi> to ſuch an Ambaſſador at <hi>Florence,</hi> when he told him that he was a Doctor of the Civil Law,<note place="margin">Pogg. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t.</note> which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e had ſtudied ten year, <hi>Quam velim (inquit) ut ſaltem annum, diſcretionis ſtudi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vacaſſes</hi> If this be their man<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to caſt away to their flocks that portion ſo out of ſeaſon, which might be fitter for their Paſtors; when ſuch one ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> come to his trial,<note place="margin">2 Tim 2 15.</note> it is to be doubted, he will hardly be able to ſhew himſelf approved unto God a workman that n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed not be aſhamed, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. For indeed, what diſcretion can there be, in ſeeking to teach thoſe, that be<g ref="char:EOLhyphen"/>ing abſent are no hearers? if thou tell other men of my faults behind my back, this (ſaith S. <hi>Jerome</hi>) is not to ſalve my malady, but to ſatisfie thy own malice. Rather, if I be to blame, tell me in private; Or if we need publick re<g ref="char:EOLhyphen"/>prehenſion,<note place="margin">Ad Ruſter. M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nach.</note> and there be any <hi>Rabſhakeh</hi> that will needs be ſhooting his bolt, in ſquibbing at our perſons, or quibling
+<pb n="19" facs="tcp:48318:12"/>
+upon our names; as <hi>Hezekiahs</hi> Courtiers ſaid to that meſ<g ref="char:EOLhyphen"/>ſenger, ſo let him give us leave to intreat him; <hi>Speak,</hi>
+               <note place="margin">2 Reg. 18.26.</note> 
+               <hi>we pray thee, to thy ſervants in the language of the learned, for we underſtand it,</hi> and not any moaning tone or dialect of the vulgar, <hi>In au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibus populi, ſive ſuper, ſive circa muros.</hi>
+            </p>
+            <p n="25">25. Furthermore, in reſpect of the perſons;<note place="margin">Hieron. Oc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> de unius u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>ris vire.</note> 
+               <hi>Caput ar<g ref="char:EOLhyphen"/>tis eſt, d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cero quod facias.</hi> As a wiſe Ambaſſador conſiders, whether he be ſent to a Monarch, or to a m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xt and popular State; ſo it highly concerns us to be very carefull and circumſpect in regarding the quality of the per<g ref="char:EOLhyphen"/>ſons with whom we are to treat. That we fall not into the folly of <hi>Demochares,</hi>
+               <note place="margin">Sen. de ira lib. <hi>3.</hi> cap. <hi>23.</hi>
+               </note> for h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s rudeneſſe firnamed <hi>Parrh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſi<g ref="char:EOLhyphen"/>tes,</hi> who being kindly intreated by King <hi>Philip</hi> of <hi>Mace<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> left him with that requeſt, which was ſo far unworthy the Majeſty of a King on his throne, that it was unfit for a malefactor in the priſon.<note place="margin">2 Sam. 12.2, 3, 4.</note> When we ſhould rather follow the modeſty and mannerlineſſe of the Prophet <hi>Nathan,</hi> who did not ſo groſly tell <hi>David,</hi> Thou art the man (as ſome imagine) but firſt he prepared him by a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rable very pertinent, more deeply to reſent the horrour of the crime in a third perſon, that finding himſelf therein mortally guilty, as being deprived of all excuſe,<note place="margin">Acts 16.25.</note> by unſeigned humi<g ref="char:EOLhyphen"/>liation in a ſhort confeſſion, he might obtain ſpeedy abſo<g ref="char:EOLhyphen"/>lution. According to our Apoſtles words of truth and ſo<g ref="char:EOLhyphen"/>berneſſe, to the noble <hi>Feſtus,</hi> and King <hi>Agrippa,</hi> in this exerciſe the holy men of God have gone before with di<g ref="char:EOLhyphen"/>vers patterns, ſo to behave our ſelves in the Church of <hi>God, that if there come in thoſe that are unbelieving,</hi>
+               <note place="margin">1 Cor. 14 24.</note> 
+               <hi>or unlear<g ref="char:EOLhyphen"/>ned, they may be convinced of all, and ſo the ſecrets of their hearts may be made manifeſt; that falling down on their faces, they may worſhip God, and report of us, that God is in us of a truth.</hi> And thus far again, <hi>we are Ambaſſadors for Chriſt.</hi>
+            </p>
+            <p n="26">26. Theſe conditions being obſerved, it remains, that we be reſolute with all correſpondent converſation to make good every branch of our Doctrine and Exhortati<g ref="char:EOLhyphen"/>ons.<note place="margin">Tull Or<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tor.</note> If other Orators extoll their action in the elocution
+<pb n="20" facs="tcp:48318:13"/>
+we ſhould much more ſet off and endeare our elocution by the operation of the things which we ſpeak for the beſt flowers in our Rhetorick. As thoſe who have learned, not only by experience in the light of nature,<note place="margin">Sen. ad lucil. epiſt. <hi>6.</hi>
+               </note> 
+               <hi>quòd homines am<g ref="char:EOLhyphen"/>pliùs oculis, quam auribus credunt, adeo ut longum ſit itey docendi per praecepta, breve &amp; efficax per exempla,</hi> but alſo much more by the Eternal Word, when he came to be the true light of the world,<note place="margin">Aug. confeſſ. lib. <hi>10.</hi> cap. <hi>4.</hi>
+               </note> and yet accounted it a ſmall thing, <hi>ſi loquendo praeciperet, niſi &amp; faciendo pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iret.</hi> Herein our Apoſtle behav'd himſelf ſo, that he became <hi>Boni domini bonus ſamulus,</hi>
+               <note place="margin">Salv. de provi<g ref="char:EOLhyphen"/>den. lib. <hi>3.</hi>
+               </note> 
+               <hi>&amp; ſingularis magistri praclarus imitator, qui in veſtigiis Domini ſui ambulans patentiora quodam<g ref="char:EOLhyphen"/>modo &amp; expreſſiora pedibus ſui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fecit Domini ſui eſſe veſtigia.</hi>
+            </p>
+            <p>And herein it ſhall be happy for the Ambaſſadors of Chriſt,<note place="margin">Senec. ibidem epiſt. <hi>53.</hi>
+               </note> 
+               <hi>qui vitam docent, quandoquidem cum dixerint quid faciendum ſit, ipſi faciendo probant.</hi> When the man of God can take his Auditor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the hand, leading them on with his own practice, to every good word and work; without check of Conſcience,<note place="margin">
+                  <hi>Phil.</hi> 3.17.</note> taking up that compellation of this Apoſtle; <hi>Brethren, be followers together of me, and marke them which walk ſo,</hi>
+               <note place="margin">Idem. epiſt. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6.</hi>
+               </note> 
+               <hi>as yee have us for enſample. Ille officium ſuum im<g ref="char:EOLhyphen"/>plevit,<note place="margin">Euſeb. hiſt. l <hi>6.</hi> cap. <hi>3.</hi> Ruff. hiſt. l. <hi>11.</hi> cap.</note> qui &amp; cum videa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cum &amp; cum, andias, idem eſt.</hi> As <hi>Job</hi> found it his comfort <hi>Job.</hi> 29 11. <hi>when the ear heard me, then it bleſſed me; and when the eye ſaw me, it gave witneſſe to me,</hi> like devout <hi>Origen,</hi> who went on carefully with the character, that this was he, <hi>qui tale habuit verbum, qualem habuit &amp; vitam; qui, quae decuit egit.</hi> So ſhall we with ex<g ref="char:EOLhyphen"/>cellent <hi>Nazianzen,</hi> teach <hi>multa verbis, plurajexemplis;</hi> e<g ref="char:EOLhyphen"/>ſpecially, if we continue conſtant, unmoveable, alwayes a<g ref="char:EOLhyphen"/>bounding in the work of the Lord, without ſtarting aſide for any temptation; as the grave <hi>Fabricius</hi> demean'd him<g ref="char:EOLhyphen"/>ſelfe in his Ambaſſage to King <hi>Pyrrhus;</hi> when he was tri<g ref="char:EOLhyphen"/>ed with ſufficient provocation to be ſeduced,<note place="margin">Plat. in vita.</note> both by hope and fear; and yet anſwered, <hi>neque heri aurum tuum, neque hodie bellua me movit.</hi>
+            </p>
+            <p n="27">27 Whereas on the contrary, <hi>non eſt animus ejus in recto,</hi>
+               <note place="margin">Sen. ibid. epist. <hi>34.</hi>
+               </note> 
+               <hi>cujus dictis acta diſcordant;</hi> that man can never be a fit Ambaſſador to go, either from a Prince, or to a people,
+<pb n="21" facs="tcp:48318:13"/>
+whom he hath highly offended, by prevaricating in the cauſe which he hath undertaken chiefly to plead for. Wo, then to thoſe that bring nothing to this calling, but (as St. <hi>Ambroſe</hi> tartly ſtiles it) that <hi>nomen inane,</hi>
+               <note place="margin">De dlg. ſacer. cap. <hi>3.</hi> De conſider. lib <hi>2.</hi>
+               </note> 
+               <hi>et cri<g ref="char:EOLhyphen"/>men immane,</hi> which St. <hi>Bernard</hi> calles <hi>monſtrous, in ſede prima, &amp; vita ima,</hi> of a theological profeſſion, ſtained with a Diabolical converſation. Which moved cenſorious <hi>Sal<g ref="char:EOLhyphen"/>vian</hi> to cry out, <hi>quid eſt dignitas in indigno,</hi>
+               <note place="margin">De provid. lib. <hi>4.</hi>
+               </note> 
+               <hi>niſi ornamentum in luto?</hi> even no better then a jewel of gold in a Swines ſnoute, or a pearle in the head of a Toade; <hi>perdit authori<g ref="char:EOLhyphen"/>tatem decendi, cujus ſermo opere deſtruitur;</hi>
+               <note place="margin">Hieron. oceano.</note> he ſhall never be able to perſwade the Kings Subjects to obedience, who as ſoon as his meſſage is ended, betakes himſelf to the pract<g ref="char:EOLhyphen"/>ice of open rebellion.</p>
+            <p>When his black works caſt the fouleſt blot upon his fair words, men believe, that he ſpeaks,<note place="margin">Tacit Annal. lib. <hi>11.</hi>
+               </note> 
+               <hi>magis in ſpeciem ad<g ref="char:EOLhyphen"/>ornata, quam ut penitús ſentire crederetur.</hi> And they are ready not onely to cenſure him in private, that he is of the minde of <hi>Metrodorus</hi> to King <hi>Tigrants,</hi>
+               <note place="margin">Plaut in lucullo.</note> exhorting to one thing as a pulick Ambaſſador, and wiſhing the contra<g ref="char:EOLhyphen"/>ry as a private counſellour; but alſo to check him openly, as <hi>Melanthius</hi> did <hi>Gordias;</hi>
+               <note place="margin">Idem in precept. c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>njug.</note> art thou the great news-mon<g ref="char:EOLhyphen"/>ger to inquire after the peace of other Nations, who haſt no care to keep peace between thy ſelf, thy wife, and thy Servant, only three in thine own houſe. <hi>So unto the wicked, ſaith God, what haſt thou to do, to declare my ſtatutes, or that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u ſhould'ſt take my Covenant in thy m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h?</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 50.16.17.18.</note> 
+               <hi>Seeing thou hateſt to be reformed, and casteth my words behind thee. When thou ſaweſt a thiefe then thou conſented'ſt with him, and haſt been partaker with adulterers. Thou ſitteſt, and ſpeakeſt againſt thy Brother,</hi> and by thy deboſht converſation, no leſſe then by thy prophane communication, <hi>thou haſt cauſ<g ref="char:EOLhyphen"/>ed a publick ſlander to be caſt upon thine own Mothers Sons.</hi>
+               <note place="margin">
+                  <hi>Ecclus.</hi> 34.23.24.</note> When ſuch an Ambaſſador ſhall pull down that with one. hand, which he built with the other, what profiteth it. When ſuch a meſſenger, while he is in this houſe ſhall with one breath bleſſe God, even the Father, and as ſoon as he is gone out, turn himſelf with another breath to curſing
+<pb n="22" facs="tcp:48318:14"/>
+and ſw<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ring, to libelling and lying, to defaming and ſlandering, not only againſt his peers, but alſo princes and governours, who repreſent the authority and Majeſty of God,<note place="margin">
+                  <hi>Gen.</hi> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.22.</note> whoſe voyce ſhould the Lord hear? <hi>Jacobs</hi> ſoft voyce with <hi>Eſau's</hi> rough hands may eaſily beguile dim-ſighted <hi>Jſaac;</hi>
+               <note place="margin">
+                  <hi>Joh</hi> 6.70. <hi>Luke</hi> 23.44.</note> but they ſhall not ſo blind his eyes who can diſcern his own Apoſtle for no better then a very Devil, though he ſalutes him at length with the faireſt token of friendſhip,<note place="margin">Plut in camil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Val. Max lib <hi>5</hi> cap <hi>6</hi> Prov <hi>13.17.</hi>
+               </note> betraying the ſon of man with a kiſſe; which may be a principal reaſon, that as <hi>Fabius Ambuſtus</hi> breach of peace was the overthrow both of himſelfe and moſt of the clan of his name and kindred; ſo <hi>Solomon</hi> aſſureth us, <hi>that a w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cked meſſenger falleth into miſchief, but a faithfu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Amb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r is preſervation.</hi>
+            </p>
+            <p n="28">28. Wherefore it will be a good preſervative againſt this miſchief in ourſelves,<note place="margin">Val. Max. ubi ſupra.</note> to make good the conſtancy of the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>lene</hi> Brethren, who choſe to be buried alive, rather then to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of any thing in their power, committed to their truſt: Which we ſhall rectifie the better, by ſecond<g ref="char:EOLhyphen"/>ing it with the reſolution of our Apoſtle, as more canoni<g ref="char:EOLhyphen"/>call; though we hear of no thanks for our pains, but bonds and afflictions abiding us;<note place="margin">
+                  <hi>Act.</hi> 20 23 24.</note> 
+               <hi>Yet not to be moved with any of thoſe things at all, that not only in our doctrine, but alſo in all our doings and ſufferings; neither to count our life deare un<g ref="char:EOLhyphen"/>to ourſelves: ſo that we may finiſh our Courſe with joy, and the mini<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>try which we have received of the Lord Jeſus, to testifie the Goſpel of the grace of God.</hi> And ſo his Spirit ſhall teſtifie to our ſpirit, that which the Apoſtle here tells all the World; <hi>now then</hi> every way <hi>we are Ambaſſadours for Christ.</hi>
+            </p>
+            <p n="29">29. Whence I proceed unto you, our Dearly beloved Auditors,<note place="margin">1 Tim. 5.17.</note> and diſciples of the laick communion, to require at your hearts and hands, that double honour, of Reve<g ref="char:EOLhyphen"/>rence and maintainance, which beſeemeth the Ambaſſa<g ref="char:EOLhyphen"/>dours of the Lord of Hoſts, even the King of Glory.</p>
+            <p>'Tis written of the <hi>Spartan</hi> Ambaſſadours, when they came to the Court of the Tyrant <hi>Lygdamis,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> who com<g ref="char:EOLhyphen"/>manded ſome about him to give them notice, that he was
+<pb facs="tcp:48318:14"/>
+not well at eaſe to grant them Audience, that they an<g ref="char:EOLhyphen"/>ſwered; <hi>Atqui non colluctatum advenimus, ſed collocu<g ref="char:EOLhyphen"/>tum.</hi> And ſo whatſoever ſome pretend, to ſtand aloofe in ſtate, and keep us off at a great diſtance, yet may they ſoon be at eaſe to give us audience, if they will conſider, how we come not as Champions, to quarrel, or combate for our ſelves: but as Ambaſſadours, to confer, and treat with them for Chriſt. Unto whom you are all every way ſo bound, that you may not think it ſufficient only to let us alone, without hurting,<note place="margin">Amos 7.13.</note> or hindring us to do our meſſage at all, <hi>as Amazias</hi> dealt with the Prophet <hi>Amos;</hi> and as <hi>Francis</hi> the <hi>French</hi> King rejected the Herald of the Emperour <hi>Cha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the fifth,<note place="margin">Bodin de repub. <hi>15.</hi>
+               </note> ſeeking to ſtop our mouths by threatning otherwiſe preſently to ſtop our breath.</p>
+            <p>Much leſſe may yee maligne or murther us, when we have delivered our meſſage;<note place="margin">Mark 6.27.</note> as <hi>Herod</hi> more bloodily cut off <hi>John</hi> Baptiſt. And <hi>Helena</hi> the Queen of <hi>Ruſſia</hi> moſt barbarouſly abuſed the Ambaſſadours of the <hi>Prutenes,</hi>
+               <note place="margin">Bodin. Ibidem.</note> bu<g ref="char:EOLhyphen"/>rying the firſt company alive, cauſing the ſecond to be b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn'd in a common fire, and making the third all drunk at a Feaſt, to be ſlain more ſavagely by the ſword. Till that at laſt being driven into deſpaire with the horrour of her outrage, ſhe drowned her ſelfe with all her malice in a wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rlepool.<note place="margin">1 Theſ. 5.13. 1 Tim 5.17.</note> But yee muſt eſteem us <hi>very highly in love for our works ſake, counting us worthy of double honou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> and that not onely while we are in the pulpit, but in all places during life.</p>
+            <p n="30">30. It is not with us, as <hi>Polycratidas</hi> with his aſſoci<g ref="char:EOLhyphen"/>ates, being demanded, whether they came as publique or private perſons, anſwered, as publick,<note place="margin">Plut. ub ſupr.</note> if we obtain our de<g ref="char:EOLhyphen"/>ſire, and as private, if we receive the repulſe. But every repulſe, every reproach, every ſpitefull afront caſt upon us redoundeth to the contempt and diſhonour of our great Lord and Maſter Chriſt Jeſus who is ſo ſenſible thereof,<note place="margin">L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uk. 0.16.</note> that he hath taught us plainly; <hi>he that heareth you, heareth me; and he that deſpiſeth you, deſpiſeth me; and he that despi<g ref="char:EOLhyphen"/>ſeth me, deſpiſeth him that ſent me.</hi> Therein no doubt ex<g ref="char:EOLhyphen"/>pecting no leſſe reſpect from you towards his Ambaſſa<g ref="char:EOLhyphen"/>dours,
+<pb n="24" facs="tcp:48318:15"/>
+then which your ſelves are wont to yield the com<g ref="char:EOLhyphen"/>mon Ambaſſadors of worldly Princes;<note place="margin">Tull. de Autuſp. reſpond.</note> concerning whom it is a received ſentence; <hi>Jus Legatorum, cum hominum praſidi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> munitum ſit, tum etiam d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vino jure eſſe vallatum</hi>
+            </p>
+            <p>In ſomuch that the calling of ſuch Ambaſſadors is ſo ho<g ref="char:EOLhyphen"/>nourable among us at this day, that by the cuſtome and courteſy of the land (I take it) he that hath once been employed therein, takes place above all men of his ranke, which have not done their Prince the like ſervice. Why ſhould <hi>I</hi> recount ſo many noble families in this Nation, raiſed to great eſtates for their dexterity in theſe expedi<g ref="char:EOLhyphen"/>tions? when by the law of nature, the very Heathens have highly honoured them, though they came from Countries of which they were ſure, that they wiſh'd them no good.</p>
+            <p>As we read eſpecially of the <hi>Perſians,</hi> how they made all the <hi>Grecians</hi> wealthy who came to them in this kinde, heaping ſuch honourable preſents and preferments upon them, that the <hi>Athenians</hi> condemned <hi>Timagoras</hi> to death for very envy,<note place="margin">Plutar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Pi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>pid.</note> rather then for juſtice, ſeeing that (as the Hiſtorian juſtly noteth) they patiently endured <hi>Epicrates,</hi> a drudg and tankard-bearer, when he did not only confeſs, that himſelf had taken gifts of the King of <hi>Perſia,</hi> but alſo profeſſe openly, that he would make a new law, as they did yearly chooſe nine officers to govern the City, that ſo they ſhould chooſe nine of their pooreſt and meaneſt Citi<g ref="char:EOLhyphen"/>zens to be ſent Ambaſſadors to the <hi>King</hi> of <hi>Perſia,</hi> that they might return home joyfully enriched with his guifts. Nay,<note place="margin">Val. Max lib. <hi>6.</hi> c. <hi>5, 6.</hi>
+               </note> which is more notable, the <hi>Romans</hi> diſmiſſed ſome with honour and rewards, which had been ſomewhat too buſy in tampering againſt their own ſtate, and Ambaſſadors. To move you,<note place="margin">
+                  <hi>Velut ſi eg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>egi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> reprendas corpo<g ref="char:EOLhyphen"/>re navos.</hi> Hoc. l. 1. Sat. 6. 1 Cor. 4.1.</note> though ſome ſlips ſhould eſcape us unawars, yet not to take all advantage or the worſt exception againſt every wart, or mole in a fair body; but with more tender<g ref="char:EOLhyphen"/>neſſe of conſcience to attend our Apoſtles counſell; let men ſo eſteeme of us, as the Miniſters of Chriſt, and ſtewards of the Myſtries of God, leſt the evill ſpirit riſe up in judgement againſt all that deny us our due honour, putting them to ſilence with that often repeated confeſſion;<note place="margin">Act. 16.17.</note> 
+               <hi>Theſe are the
+<pb n="25" facs="tcp:48318:15"/>
+Servants of the moſt high God, which ſhew unto us the way of Salvation.</hi>
+            </p>
+            <p n="31">31. The conſideration whereof might procure among all men greater favour, and reſpect toward us; if it were not for a pack of ſhuffling Momes, and Malecontents, who cannot abide to hear theſe things ſpoken; but preſently they cry out, that this is a common place in which every one can be eloquent for himſelfe, and we may ſpare our labour of telling them that which they know already, ſo well as our ſelves: May not this fitly call to mind that ex<g ref="char:EOLhyphen"/>cellent pill to purge their choler?<note place="margin">Horat.</note> 
+               <hi>Tacitus paſci ſi poſſet corvus, haberet plus dapis, &amp; rixa multo minus, invidiaeque;</hi> It's to be feared, moſt of them wiſh our ſilence in this ſub<g ref="char:EOLhyphen"/>ject, not becauſe they intend to give us our dues without asking, but that they might carry them all away, without any noiſe, or check, or controle; not onely in private con<g ref="char:EOLhyphen"/>tempt and diſgrace to our perſons; but with open violence to our eſtates and patrimonies. Which ſome think more cleanly carryed by the three-headed <hi>Cerberus</hi> of multipli<g ref="char:EOLhyphen"/>ed impropriations, cuſtomes, and prohibitions; But to make up the meſſe, a fourth ſort have outſtript all, pre<g ref="char:EOLhyphen"/>tending moſt againſt Popery, and yet deluded with a Po<g ref="char:EOLhyphen"/>piſh deſign of reviving <hi>Abbas Joachims</hi> Monaſticall con<g ref="char:EOLhyphen"/>ceits,<note place="margin">Platina. Et Guliel. de ſancto amore. In teſt. verit. temp p. <hi>468.</hi> Et M. Sulli. de de Monach. cap. <hi>8.</hi> fol. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>4.</hi>
+               </note> for propagating their Apocryphal <hi>Evangelium ae<g ref="char:EOLhyphen"/>ternum,</hi> to evacuate all the canonicall Oracles of God. Which device hath drawn them aſide to aſſociate, and bandy together in a direfull League, to weary, and weed up all, both root and branch, <hi>Moſes</hi> and <hi>Aaron,</hi> Kingdome and Church, Law and Goſpell, all together to be feld and ſtockt up at one blow.</p>
+            <p>Howſoever ſome indeavor ſince to excuſe, and daube up the matter, that they never intended it ſhould have come to that paſſe; yet the more indiſcreet, and unadvi<g ref="char:EOLhyphen"/>ſed they; who preſt the plot ſo fiercely,<note place="margin">Jud 12.6.</note> for the <hi>Shibboleth</hi> to try their Brethren, and expoſe them to the ſpoile; when they ſhould have <hi>built up</hi> Jeruſalem,<note place="margin">Pſal. 47.2.</note> 
+               <hi>and gathered together the Outcaſts of</hi> Iſrael, never forecaſting that it muſt needs have proved thus in the event, if as <hi>Hiſtiaus</hi> ſewed up the
+<pb n="26" facs="tcp:48318:16"/>
+garment,<note place="margin">Gr. Nazlan. ad verſus Julian Orat. <hi>4.</hi>
+               </note> ſo <hi>Ariſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>goras</hi> might have had leave to put it on, and liberty to have marched forward under the Banner of ſelf-denying ordinances to ſubdue all unto the bondage of their ſelf-ſeeking Yoke.</p>
+            <p n="32">32. A ſtrange adventure, though ſometimes privately attempted,<note place="margin">Hieron ad E<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>agr. &amp; quaeſt. Heb. in Gen.</note> yet never openly abetted, ſince the Grace of God firſt ſaluted the Nation. When the Hebrew Doctors hold this tradition, that all the firſt born of <hi>Noah</hi> from <hi>Shem</hi> to <hi>Aaron</hi> managed the Sacerdotal with the Sove<g ref="char:EOLhyphen"/>reign power, when Saint <hi>Jerom</hi> hath left us this obſervati<g ref="char:EOLhyphen"/>on,<note place="margin">De quaſt. Hebr. in Par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</note> that in the Books of Kings, the Sons of <hi>David,</hi> the Prieſts, are recorded in the Chronicles to have been princi<g ref="char:EOLhyphen"/>ple at the Kings hand; and both (ſaith he) to the ſame ſence; for their nobility and priority in the ſight of the King. When <hi>Jeboaſh</hi> King of <hi>Judah</hi> did that <hi>which was right in the ſight of the Lord all his dayes,<note place="margin">2 Reg 12.2.</note> wherein</hi> Jehoiada <hi>the Prieſt was at his hand to inſtruct him.</hi> When <hi>Joaſh</hi> the King of <hi>Iſra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi> came down to the prophet <hi>Eliſha</hi> ſick to death,<note place="margin">2. Reg. 13 14.</note> 
+               <hi>and wept over his face, ſaying, oh my Father, my Father, the Chariots of</hi> Iſrael <hi>and the horſemen thereof;</hi> therein confeſ<g ref="char:EOLhyphen"/>ſing that the Prophet had been to him a father indeed, pro<g ref="char:EOLhyphen"/>curing more bleſſing and comfort for him, then he could find in any of his own chariots,<note place="margin">2 Reg. 13.16.</note> and horſemen. At which time alſo when he was directed to put his hand <hi>upon the bow,</hi> Eliſha <hi>put his hands upon the Kings hands;</hi> thereby pointing, as with the mark of a hand in the margent, to this memora<g ref="char:EOLhyphen"/>ble note; that the Kings hands are never ſo powerful &amp; pro<g ref="char:EOLhyphen"/>ſperous, as when they are aſſiſted with the Prophets hands though weak in body, yet ſtrong in the Spirit; when the cruel enemies of the Church in their <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>reſt perſecutions, have made ſtricteſt inquiſition againſt Biſhops, as the ſureſt Pillars and ſupporters of the right and ſound Faith.</p>
+            <p>Becauſe they cannot be ignorant of this cuſtome alwaies prevailing in the Church;<note place="margin">Vine. Lir. C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. monit. cap. <hi>1.</hi>
+               </note> 
+               <hi>ut quo quiſque flore<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et religi<g ref="char:EOLhyphen"/>oſior, eo premptior novellis adinventionibus contrairet.</hi> At whoſe ſubverſion all Noveliſts ſtill aime, and march on with the ſame grudge, who ſtrike moſt at theſe, that with <hi>Vitellian</hi> fury they may feed their own eyes,<note place="margin">Sue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. in Vitel<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> in ſeeking to
+<pb n="27" facs="tcp:48318:16"/>
+make a Covenant with us, on the condition of <hi>Nahaſh</hi> the <hi>Ammonite,</hi> that they may thruſt out the right eyes of Gods heritage, and lay it for a reproach on all <hi>Iſrael.</hi>
+               <note place="margin">1. Sam. 11.2.</note> When the wiſeſt Emperours and Kings, ever ſince they owned Chriſt, have acknowledg'd his Ambaſſadors for their able<g ref="char:EOLhyphen"/>eſt agents and aſſiſtants in all their weightyeſt affairs; eſpeci<g ref="char:EOLhyphen"/>ally where Church and Kingdom are ſo involv'd, that the one ſeldome thrives without the welfare of the other. Nay when the firſt General Councells were never tainted with the depth of Sathans policy, in plotting reformation,<note place="margin">Apoc. 2.24.</note> to blaſt and blow away the whole order of Prelacy out of the Church;<note place="margin">Hieron. adverſ. Lucif.</note> but they held it a ſure and ſupereminent pow<g ref="char:EOLhyphen"/>er againſt all ſects and innovations, to keep it up at the height, with that Canon in the famous and great Council of <hi>Calcedon,</hi> decreeing it no leſſe then ſacriledge to bring downe a Biſhop into the degree of a Presbyter.<note place="margin">Can. 29.</note> Now, <hi>cur omnium ſit culpa paucerum ſcelus?</hi> That theſe, who have been, and are many ſtill,<note place="margin">Sen. Hippol. Act. <hi>2.</hi>
+               </note> ſo true to their God and his Chriſt ſhould be all cryed down for Antichriſtian; that theſe, who have been, and are many ſtill, ſo tutelary and ſalutary to their Princes and Countries, ſhould be all likewiſe condemned for uſeleſs and unfit to have any vote or ſuffrage, or to give any conſent or counſel to the contriv<g ref="char:EOLhyphen"/>ing and conſtituting of Laws for the governing of Chriſts people, (though theſe new found Politicks have declared to all Poſterity, <hi>ipſo facto,</hi> how near they trod in the ſteps of their ring-leader <hi>Caiaphas,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 11.51.</note> becauſe as he propheſied of Chriſt, ſo they proclaimed of his Ambaſſadors before they were aware, and under that ſentence of condemnation gave them theſe letters <hi>teſtimonial</hi> of commendation, that they were uſeleſs indeed for their turn, being in no wiſe likely to become <hi>ſceleri tanto materia facilis,</hi>
+               <note place="margin">Sen. ubi ſupra.</note> but ready ſtill to prove better men, <hi>quam eſſe quenquam tyranno ex<g ref="char:EOLhyphen"/>pediret</hi>); yet that theſe, I ſay,<note place="margin">Sen. de ben. lib. <hi>2.</hi> cap. <hi>20.</hi>
+               </note> ſhould be all thus cryed down, and condemned by thoſe that cry out againſt Ty<g ref="char:EOLhyphen"/>ranny; This, will it not be a flaſh of wilde fire and ſad re<g ref="char:EOLhyphen"/>flection, in the eyes of all, that if they will but open them and look into it, may preſently perceive, that the great pro<g ref="char:EOLhyphen"/>miſe
+<pb n="28" facs="tcp:48318:17"/>
+was not ſo much to all the diſciples or Church in gene<g ref="char:EOLhyphen"/>rall, as to the Apoſtles and their ſucceſſours in particular, when they were ſent to this Miniſtration with his commiſſi<g ref="char:EOLhyphen"/>on, adding it for the <hi>apex, colophon,</hi> and Crown of all comfort,<note place="margin">
+                  <hi>Mat.</hi> 28.20.</note> 
+               <hi>that therein, he would be with them alway, even unto the end of the world.</hi>
+            </p>
+            <p n="33">33 Which promiſe can in no wiſe be thought truely per<g ref="char:EOLhyphen"/>form'd,<note place="margin">De praeſcrip. cap. <hi>2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> by that heap of arguments in <hi>Tertullian, ſi interea perperam evangelizabatur, perperam credebatur;</hi> if ſo many thouſands of thouſands were baptized amiſſe, ſo many works of faith and charity wrought amiſſe,<note place="margin">
+                  <p>Vbi omnes tu<g ref="char:EOLhyphen"/>ment, omnes ſci<g ref="char:EOLhyphen"/>entiam pol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icen<g ref="char:EOLhyphen"/>tur.</p> 
+                  <p>Antè ſunt per<g ref="char:EOLhyphen"/>fecti catechu<g ref="char:EOLhyphen"/>meni, quàm edi<g ref="char:EOLhyphen"/>cti.</p> 
+                  <p>Ordinationes eorum temera<g ref="char:EOLhyphen"/>ria, leves, in<g ref="char:EOLhyphen"/>conſtantes; nunc neophytos col<g ref="char:EOLhyphen"/>locant, nunc ſe<g ref="char:EOLhyphen"/>culo obſtrictos, nunc Apoſta<g ref="char:EOLhyphen"/>tat noſtros, ut gloria e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bli<g ref="char:EOLhyphen"/>gent &amp;c vide Tertul. de prae<g ref="char:EOLhyphen"/>ſcript. cap. <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>1.</hi>
+                  </p>
+               </note> ſo many vertues and graces of the Spirit diſpenſ'd amiſſe, ſo many Prieſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>hoods, and Miniſtryes ordered amiſſe, ſo many Martyrdomes crown'd amiſſe; If all were loſt, and led in blindneſſe (as they ſay); and none of the holy fathers, none of the faith<g ref="char:EOLhyphen"/>full confeſſours, none of the conſtant Martyrs, none of the prime and general Counſells knew any thing aright, con<g ref="char:EOLhyphen"/>cerning the publick preaching of the Word, and worſhip of God in prayer, concerning the adminiſtration of the Sacra<g ref="char:EOLhyphen"/>ments, concerning the conferring of holy orders, concer<g ref="char:EOLhyphen"/>ning the power of the keys, and diſcipline of the Church for fifteen hundred years together and more, till theſe in<g ref="char:EOLhyphen"/>novating <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, were ſpawn'd and ſprung up with the choaking ſmoke of their new links to deface and beſmeare all.</p>
+            <p n="34">34 But the more we muſe at them, the more we are bound, not only to admire and adore the infinite goodneſs of our gracious God, when his church among us was in <hi>acie novaculae,</hi> ready to be quite cut off, for his miracu<g ref="char:EOLhyphen"/>lous ariſing in the nick, ſo to maintain his own cauſe, that <hi>though they aſſociated themſelves they are broken in pieces; though they took counſell together,</hi>
+               <note place="margin">Iſa. 8, 9, 10.</note> 
+               <hi>it is come to nought; though they ſpake the word, it cannot ſtand;</hi> for it was thy Land, O <hi>Jmmanuel;</hi> But alſo to invoke and implore his greater bleſſing upon thoſe truly Royall, loyal, judicious, and re<g ref="char:EOLhyphen"/>ligious hearts, ever to be renowned for renewing and ſet<g ref="char:EOLhyphen"/>ling that courſe, <hi>wherein God may be honoured beſt in the beaty of holineſſe,</hi>
+               <note place="margin">Pſal. 96.9.</note> and we his meſſengers at length lookt'
+<pb n="29" facs="tcp:48318:17"/>
+upon again, and reputed ſtill, <hi>as now Ambaſſadors for Christ.</hi>
+            </p>
+            <p n="35">35. But to forbear particulars, what unkindneſs or in<g ref="char:EOLhyphen"/>dignity hath <hi>Chriſt</hi> our good <hi>Lord</hi> &amp; <hi>Saviour</hi> offered them? why we, whom he accounteth the ſalt of the earth, to ſea<g ref="char:EOLhyphen"/>ſon, and keep them ſweet, ſhould in all their Joyes and Fe<g ref="char:EOLhyphen"/>ſtivals be ſet below the ſalt, contemned, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſleighted, and thruſt down under all. <hi>Det Galenus opes, Det Juſtinianus honores,</hi> and much good may they do their followers with their due Minervals. But that we touching our genus in our ſuperiours, and touching our ſpecies in their inferi<g ref="char:EOLhyphen"/>ours ſhould be debaſed and debarred of all, this is hard meaſure in the judgement of all, who take to heart the compariſon, which in this caſe muſt never be counted odious, That the health of the body, which belongs to <hi>Galens</hi> cure,<note place="margin">Mat. 16.26.</note> doth not ſo far excell the ſafety of the eſtate which belongs to <hi>Juſtinians</hi> care; but the ſaving of the ſoul, which belongs to our charge, is more precious then both And if <hi>Arrianus</hi> held himſelf ſo much greater then other Hiſtorians,<note place="margin">Bodin. Method.</note> by how much the all-dar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng <hi>Ale<g ref="char:EOLhyphen"/>xander</hi> of whom he wrote, was greater then other Kings &amp; <hi>Alexander</hi> himſelf, after the conqueſt of <hi>Perſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a,</hi> thought the Wars of the Grecians no more then battels of Frogs and M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, in compariſon of his own exploits; muſt we be caſt off, and valued under all, <hi>eo nomine,</hi> becauſe we are not ſent, as the E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hiopian Ambaſſadors by the ſea,<note place="margin">Iſa 18.2.</note> in veſſels of bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-ruſhes, to ſpeak to you for any Machiavilian petty Prince of <hi>Italy;</hi> but as <hi>Ambaſſadors for Chriſt</hi> we come to treat with you for him that is more precious then all the Gold of <hi>Ophir,</hi> and both the Indies,<note place="margin">1 Tim 6.15.</note> for <hi>the bleſſed Prince and onely Potentate, even the King of Kings, and Lord of Lords?</hi> And becauſe we train you up, not to any baſe, or butcherly battel of Frogs and Mice againſt fleſh and bloud, but to that great and glorious battel of <hi>Michael and his Angels, fighting againſt the dragon and his Angels;</hi>
+               <note place="margin">Apoc. 12.7. Epheſ. 6.12. <hi>Qu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt Curt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Iſa. 44.26.</note> 
+               <hi>that ye may be able to wreſtle againſt principalities, againſt powers, againſt rulers of the darkneſs of this world, againſt ſpiritual wickedneſſe in high places?</hi> Where our preſence with you is not, as that of the <hi>Carthaginian Ambaſſadors,</hi> to the be<g ref="char:EOLhyphen"/>ſieged
+<pb n="30" facs="tcp:48318:18"/>
+Citizens of <hi>Tyre,</hi>
+               <note place="margin">
+                  <hi>Tacitus annal. lib.</hi> 2. Philip. 4.17.</note> 
+               <hi>Magis ſolatium quàm auxilium;</hi> but the Lord by us <hi>confirmeth the word of his ſervants, and perfo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>meth the counſel of his meſſengers.</hi>
+            </p>
+            <p n="36">36. <hi>Non ad invidiam iſta, ſed conciliandae miſericordiae refere.</hi> As S. <hi>Paul</hi> exhorted his Philippians to be bountifull, not becauſe he deſired a gift, but becauſe he deſired fruit, that might abound to their account; ſo we admoniſh you, in this caſe, to be dutiful, that ye may avoid the puniſh<g ref="char:EOLhyphen"/>ments by all laws enacted againſt the diſobedient. <hi>Et enim nomen legati epuſmodi eſſe debet,</hi>
+               <note place="margin">Tull. in Verrem. lib. <hi>3.</hi> Val. Mac. lib. <hi>6.</hi> c. <hi>6.</hi>
+               </note> 
+               <hi>ut non modo inter ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ciorum jura, ſed etiam inter hoſtium arma incolume verſe<g ref="char:EOLhyphen"/>tur.</hi> Inſomuch that the Romans delivered the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r owne fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and neighbours, who had but juſtled their enemies Ambaſſadors, bound into their own hands to puniſh them. And when other Nations refuſed to do them like juſtice, all men have held the way more lawfull and open to right themſelves. As we ſee by the grievous tortures, which, for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lling his Ambaſſadors, <hi>David,</hi> with the overthrow of their King and Countrey, inflicted upon the <hi>Ammonites,</hi> by <hi>putting them under,</hi>
+               <note place="margin">2 Sam. 12 3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>ſawes, and under harrowes, and axes of iron, and making them paſs through the tile-kilne;</hi> nay, when men were diſabled, God himſelf hath by other helps aſſiſted them. Witneſſe the overthrow of <hi>Corinth, Car<g ref="char:EOLhyphen"/>thage,</hi>
+               <note place="margin">Val Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> l. <hi>2.</hi> c <hi>2.</hi>
+               </note> 
+               <hi>Thebes, Tyre, Tarentum,</hi> eſpecially in avenging the cauſe of his own Ambaſſadours, upon the contempt of his own people. Both in their firſt captivity, of which we read in the end of their own Chronicles, <hi>That the Lord God of their fathers ſent to them by his meſſengers, riſing betimes, and ſending,</hi>
+               <note place="margin">2 Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 36.15, 16.</note> 
+               <hi>becauſe he had compaſſion on his people, and on his dwelling place. But they mocked the meſſengers of God, and deſpiſed his words, and miſuſed his Prophets, untill the wrath of the Lord aroſe againſt his people, till there was no re<g ref="char:EOLhyphen"/>medy:</hi> And alſo in their ſecond captivity, of which our A<g ref="char:EOLhyphen"/>poſtle writeth to the <hi>Theſſalonians, That they killed the Lord Jeſus, and their own Prophets, and perſecuted us</hi> (ſaith he) <hi>and they pleaſed not God, and were contrary to all men; forbidding to ſpeak to the Gentiles,</hi>
+               <note place="margin">1 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2 15, 16.</note> 
+               <hi>that they might be ſaved, to fill up their ſins alway; for the wrath came upon them to the utterm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt.</hi>
+            </p>
+            <pb n="31" facs="tcp:48318:18"/>
+            <p n="37">37. There is no need there to object <hi>Idú<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Caſſianum,</hi>
+               <note place="margin">Cui bono. Tull. pro Milone.</note> To what good is all this alledged? if you will needs have it in plain terms, it is all to this end, even to make good that voice in S. <hi>Cyprians</hi> viſion, for no vaine illuſion, but a divine and ſure prediction, <hi>Qui Chriſto non credit ſacerdo<g ref="char:EOLhyphen"/>tem facienti, poſtea credere incipiet ſacerdotem vindicanti.</hi>
+               <note place="margin">Cypr. l. <hi>4.</hi> ep. <hi>9.</hi>
+               </note> Theſe (my brethren) are the cauſes why you are called upon ſo often to take heed of theſe ſins, becauſe there is nothing ſo ſacred, which may not ſometimes meet with the ſacrilegious, <hi>Quando ſacrilegia minuta puniuntur,</hi>
+               <note place="margin">Sen. de trarqu. lib. <hi>2.</hi> cap. <hi>3.</hi> Aul. Gel. lib <hi>3.</hi> c. <hi>9.</hi>
+               </note> 
+               <hi>ma<g ref="char:EOLhyphen"/>gna in triumphis feruntur,</hi> leſt you ſhould deceive your ſelves in ſeeking to eſcape, by riding away in poſt haſte up<g ref="char:EOLhyphen"/>on the ſequeſtred race of <hi>Sejanus</hi> horſe, with the plunder<g ref="char:EOLhyphen"/>ed gold of <hi>Tolouſe.</hi>
+            </p>
+            <p>In which caſe, the Lord hath threatned ſuch fugitives; that becauſe they will <hi>flee upon horſes,</hi>
+               <note place="margin">Iſa. 30.16.</note> 
+               <hi>therefore they ſhall flee; and ſeeing the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will ride upon the ſwift, therefore they that purſue them ſhall be ſwifter;</hi> Even to overtake and ar<g ref="char:EOLhyphen"/>reſt them, with the Proverb of <hi>Sol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mon,</hi> which imports a ſnare, worſe then that which ſtrangles at the place of exe<g ref="char:EOLhyphen"/>cution, <hi>Even a ſnare to devour that which is conſecrated,</hi>
+               <note place="margin">Prov. 20.25.</note> 
+               <hi>and after v<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wes to make inquiry,</hi> whether it hath been d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne well or no.</p>
+            <p n="38">38. Otherwiſe, for our ſelves, we doe not onely know, that as they which wait on the Altar, are partakers with the altar, ſo the Lord hath ordained (farre doubtleſs above all ordinances of men) <hi>that they which preach the Goſpel, ſhould live of the Goſpel.</hi> But we have alſo learned,<note place="margin">1 Cor. 9.13, 14 Phil. 4 11.</note> 
+               <hi>in whatſoever ſtate we are, therewith to be content.</hi> And yet, as we read of the Statute of the Romans, in honour of thoſe that miſ<g ref="char:EOLhyphen"/>carried by any untoward calamity, in the time of their ambaſſy abroad, how they erected Statues and Monu<g ref="char:EOLhyphen"/>ments for them at home,<note place="margin">
+                  <hi>Tull.</hi> Phil. 9.</note> to the credit and comfort of their friends and kindred, whom they left behind; ſo we doubt not, but that God hath provided better things for us. <hi>Though we labour in vain, and ſpend our strength for nought among men, yet ſurely our judgement is with the Lord,</hi>
+               <note place="margin">Iſa 49 4.</note> 
+               <hi>and our work with our God.</hi> And though the contempt of our
+<pb n="32" facs="tcp:48318:19"/>
+calling be, with too many, ſwolne to that height, that they make it their grand queſtion, whether we may with ſafe conſcience take of men any reward for our pains; yet as Ambaſſadors may,<note place="margin">Plut. de quaeſt. Rom. <hi>43.</hi>
+               </note> without queſtion, by conſent of all Nations, receive from the people to whom they are ſent, tokens of honour, regard, and ſupport (anciently called <hi>Lauteia</hi>) for their coſtlineſs and daintineſs; but they expect their proper maintenance and wages chiefly from their own Maſters; ſo we believe the caſe ſtands with us. And beſide the preſent maintenance allowed in his Word, (liberal enough, if rightly weighed in the balance of the Sanctuary) the Lord himſelf will make it openly manifeſt in his deeds at length; When every man ſhall receive his own reward according to his own labour, <hi>Where they that are wiſe ſhall ſhine as the brightneſs of the firmament,</hi>
+               <note place="margin">1 Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 3.9. Dan. 12.3.</note> 
+               <hi>but they that turn many to righteouſneſs ſhall ſhine in a higher degree of glory, at the stars, for ever and ever.</hi> And therefore in this hope being ſupported <hi>by the word of truth, by the power of God,</hi>
+               <note place="margin">2 Cor. 6.7.</note> 
+               <hi>by the armour of righteouſneſs on the right hand, and on the left;</hi> yet we continue, and hold out to this day, as thoſe who ſtill are <hi>now Ambaſſadors for Chriſt.</hi>
+            </p>
+            <p n="39">39. Fourthly, and finally, reverend and beloved, high and low, old and young, one with another, give me leave now, for concluſion, to commend one vertue more profi<g ref="char:EOLhyphen"/>table upon all occaſions, that nothing may be loſt, but all tied up faſt in the bond of perfectneſs.<note place="margin">Col<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ. 3.14.</note> Though God, who <hi>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmanded the light to ſhine out of darkneſs, hath ſhined in our hearts, to give the light of the knowledg of the glory of God in the face of Jeſus Chriſt;</hi> yet our Apoſtle would have us mindful, how we carry this treaſure in earthen veſſels, that the excellency of the power maybe of God,<note place="margin">2 Cor. 4 5, 6, 7</note> and not of us.</p>
+            <p>Now <hi>(abſit verbo invidia)</hi> by the ſpace of above 53. years (wherein I bleſs his holy name, for making uſe of my poor talent in this function) I have obſerved, that ſuch veſſels hardly claſh one againſt another;<note place="margin">Jerem. 13.11. Gal 5.15</note> but when the wea<g ref="char:EOLhyphen"/>ker is daſht in pieces, the ſtronger ſometimes receive ſuch a flaw, which can ſeldome be ſodered up again. As then all good Ambaſſadors leave all private envy, jarrs, and ani<g ref="char:EOLhyphen"/>moſities
+<pb n="33" facs="tcp:48318:19"/>
+to promote the publick good; ſo before ye go to your, next home, and ſo long as ye are going to your long home be carefull, to follow the frequent, and friendly counſell of the Holy Ghoſt. <hi>See that yee fall not out by the way;</hi>
+               <note place="margin">Gen. 45.24. Epheſ. 4 3. Rom. 16.17.</note> 
+               <hi>but bee diligent to keep the unity of the Spirit in the bond of peace; and mark them which cauſe diviſions and offences, contrary to the doctrine which ye have received, and avoid them.</hi>
+            </p>
+            <p n="40">40. Whether they be ſuch as delight to run their deſcant up<g ref="char:EOLhyphen"/>on the <hi>Corinthian</hi> diviſion, ſaying, <hi>I am of</hi> Paul,<note place="margin">1 Cor. 1.12.</note> 
+               <hi>and I of</hi> Apollo <hi>and I of</hi> Cephas, <hi>and I of Chriſt.</hi> Now that Chriſts Church with us is like a weak Patient newly revived from an epidemicall and dangerous epilepſy, to be more fairly and gently nurs'd up again; let not that tearing voyce of the harlot be in requeſt with any among you, <hi>nec mihi, nec tibi, ſed dividatur;</hi> leſt you ſuffer again,<note place="margin">1 Reg. 3.36.</note> as you have done of late with too many forced thankſgivings; <hi>if a man bring you into bondage, if a man devoure you,</hi>
+               <note place="margin">2 Cor. 11.20.</note> 
+               <hi>if a man take of you, if a man exalt himſelf, if a man ſmiteth you on the face; ubi in<g ref="char:EOLhyphen"/>ſidioſiſſime nocet, cui gratiae aguntur pro injuriis:</hi>
+               <note place="margin">
+                  <hi>Sen. de ben. lib.</hi> 5 <hi>c.</hi> 20. 1 Cor. 4.6.</note> but as this Apoſtle writeth, <hi>that he transferred theſe things in a figure to himſelf, and</hi> Apollo <hi>for your ſakes, that ye might learn in us, not to think of men above that which is written, that no one of you be puffed up, for one againſt another;</hi> ſo ſuffer me, with the ſame Apoſtle, to adde this further to every one of you;<note place="margin">Rom. 12.3.</note> 
+               <hi>that none of you think of himſelf more highly then he ought to think,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>according as God hath dealt to every man, not the fulneſs, but the meaſure of Faith.</hi>
+            </p>
+            <p n="41">41. Neither be ruled by thoſe that take offence at the man<g ref="char:EOLhyphen"/>ner of ſome mens expreſſions, becauſe all do not deliver their meſſage after one and the ſame kind of method; who can ſay that all have the ſame gifts and graces of the Spirit, when our Apoſtle ſaith,<note place="margin">1 Cor. 7.7. 1 Cor. 12.11.</note> 
+               <hi>that every man hath his proper gift of God one after this manner, and another after that; according to the manifeſtation of the Spirit, dividing his gifts to every man, ſeveral as he will;</hi> And his Brother call's upon us, <hi>as every one hath received,</hi> not all gifts, but <hi>the gift,</hi>
+               <note place="margin">1 Pet. 4.10.</note> 
+               <hi>ſo to miniſter the ſame one to another as good ſtewards,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>;<note place="margin">S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hel. in Hieren. adverſus. Jov. lib <hi>1.</hi> Apolog. Orat. <hi>1.</hi>
+               </note> where I am ſure that the mention of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> imports, not onely the toleration of the neceſſity, but alſo the commendation of the excellency of various, and ſeveral gifts. Whence <hi>Nazianzen</hi> divinely inferreth, that above all ſtudents, we in the miniſtery have need of the art of Arts, and ſcience of
+<pb n="34" facs="tcp:48318:20"/>
+ſciences, that we may be able to treate and prevail with man who is the <hi>animal</hi> above all, <hi>maximè varium, &amp; multiplex.</hi> And St. <hi>Auſtin</hi> thereupon reſolves it to be more, both material, and ma<g ref="char:EOLhyphen"/>jeſticall, for the meſſage it ſelf to be handled by divers men di<g ref="char:EOLhyphen"/>verſly. Where becauſe his expreſſion is both elegant and per<g ref="char:EOLhyphen"/>tinent, and time wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l not ſuffer repetition, I ſhall only refer you to his own words, in the twelfth of his confeſſions, cap. 26. And therefore I ſay again, with this Apoſtle; <hi>Are all Apoſtles, are all Prophets,</hi>
+               <note place="margin">1. Cor. 11.29.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.</note> 
+               <hi>are all Teachers, do all ſpeak with tongues, do all interpret! But cov<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t earneſtly the beſt gifts, and yet ſhew I unto you a more excellnt way.</hi>
+            </p>
+            <p n="42">42 That is, in fine, that ye much more take heed of thoſe, who going further ſeek an open ſchiſme and ſeparation, in regard of certain harmleſs ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es and ceremonies of order and decency,<note place="margin">In rebut de quibus nihil ce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti ſtatuit ſc<g ref="char:EOLhyphen"/>riptura divina, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s populi Dei, vel inſtituta majo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um pro lege tenenda ſunt. <hi>Auguſt.</hi> epiſt. <hi>36.</hi>
+               </note> of ornament, and indifferency, in the Church. (According to the excellent rule of the forenamed Father) who knows not that Ambaſſadors, in going to ſeveral Princes, with the ſame errand, are alwayes adviſed, for outward ceremonies, to comply with the received cuſtoms and conſtitutions of the Nat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons to whom they are ſent? As in common Courtſhip, Ambaſſadors go to moſt Chriſtian Princes, and converſe with them, keeping their hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s covered. They are led to the Grand Signior by the arms, between two Baſhaws, with their faces looking toward the ground. But if they come before the rough and rugged <hi>Ruſſi<g ref="char:EOLhyphen"/>an,</hi> they muſt ſtand bare, unleſſe they will have their Hats nailed to their heads. So, in Gods ſervice, the Ambaſſadors of ſome Reformed Churches ſpeake to their people with their heads co<g ref="char:EOLhyphen"/>vered; which cuſtom, notwithſtanding, if any ſhould ſeek to preſſe upon us, without the Authority of the Church, I doubt you would all judge it fitter, to have his hat nail'd to the block. And why may not we have the ſame liberty in other ceremonies alſo?<note place="margin">Hieron ad verſ. Jovin. lib. <hi>1.</hi>
+               </note> which the Ancients conceive conveniently recommended, both by <hi>Joſephs</hi> coat of many colours, the token of his fathers greater love,<note place="margin">Geneſ. 37.3.</note> and by the Kings Daughter, <hi>who is all glorious with<g ref="char:EOLhyphen"/>in, and yet her cloathing is ſaid to be of wrought gold; Circumamicta varietatibus.</hi>
+               <note place="margin">Pſal. 45.13.14.</note> Inſomuch that our Apoſtle requires no leſſe, in joyning both theſe together, as the ſovereign ſalve, for all ſores in this kinde, that all things be done <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. But <hi>if any deſire to be contentious, we have no ſuch cuſtom, neither the Churches of God.</hi>
+               <note place="margin">1 Cor. 14.40.</note>
+            </p>
+            <pb n="35" facs="tcp:48318:20"/>
+            <p n="43">43. The ſum then of all is this, when you enter into this call<g ref="char:EOLhyphen"/>ing, the holy prophet tels you, that the Lord looks for ſuch <hi>Cadu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tators,</hi> eſpecially among you, who ſhould make up the hedge, and ſtand in the gap before the Lord for the Land.<note place="margin">Ezech. 22.30.</note>
+            </p>
+            <p>Do not then, O do not you, prove the foremoſt to make the breach wider, under which the Land hath been too ſorely ſhaken already, by ſeeking to patch any new piece of home-ſpun cloath into the ancient and venerable coate of Chriſt,<note place="margin">John 19.23.24. <hi>Cypr. de ſimpl. plat.</hi> Prov. 17.11.</note> 
+               <hi>which was with<g ref="char:EOLhyphen"/>out ſeame woven from the top throughout,</hi> to imply the Myſtery of unity in the Church. So that the barbarous Souldiers, which crucified him, <hi>refuſed to rend it;</hi> leſt that Proverb of <hi>Solomon</hi> fall heavy upon you. <hi>An evil man ſeeketh only rebellion, therefore a cruel meſſenger ſhall be ſent againſt him.</hi>
+            </p>
+            <p>But for diſcharge of your loyalty, which binds you to be ſub<g ref="char:EOLhyphen"/>ject for conſcience ſake; for more gratefull correſpondence to our Dread Sovereignes moſt gracious condeſcenſions, wherein he hath, to the wonder of the world, made himſelf all things to all men, that he might by all meanes poſſible win the more; for kinde ſatisfaction to your kindred and native Countrey, which have a long time waited and longed for a ſettlement in peace,<note place="margin">Rom. 15.7.</note> that they might, at length, with one mind and one mouth glori<g ref="char:EOLhyphen"/>fie God, even the Father of our Lord Jeſus Chriſt; for the Paſ<g ref="char:EOLhyphen"/>ſion of Chriſt, who hath ſo dearly bought you,<note place="margin">Coloſ. 1.20.</note> that by <hi>making peace through the bloud of his croſs, he might reconcile all things unto himſelf, both in earth, and in heaven;</hi> for the compaſſion which ye owe to your tender Mother the Church, which hath ſo dearly born and bred you up, that ye might follow the things which make for peace,<note place="margin">Rom. 14.19.</note> and things whereby ye may no more ru<g ref="char:EOLhyphen"/>ine, but edify one another; ſet your ſelves, even ſet your ſelves with <hi>Moſes, in the breach before the Lord for the Land,</hi>
+               <note place="margin">Pſal. 106.23.</note> 
+               <hi>to turn a<g ref="char:EOLhyphen"/>way his wrath, that he may not come againſt us any more to deſtroy us. Take your cenſers, with</hi> Aaron, <hi>and go out quickly,</hi>
+               <note place="margin">Num. 16.46.48.</note> 
+               <hi>and put on the incenſe of pure hearts, and hands, lift up to the throne of grace on high; that while ye ſtand in this poſture between the dead and the living, the plague that hath been ſo long raging among us, may be ſtayed.</hi>
+            </p>
+            <p>
+               <hi>If it be poſſible, as much as in you lieth, live peaceably with all men.</hi>
+               <note place="margin">Rom. 12.18. Phil. 2.1, 2.</note> And conſider with how many powerfull bonds this Apo<g ref="char:EOLhyphen"/>ſtle himſelf adjureth you; <hi>If there be any conſolation in Chriſt, if any comfort of love, if any fellowſhip of the Spirit, if any bow<g ref="char:EOLhyphen"/>els
+<pb n="36" facs="tcp:48318:21"/>
+and mercies, fulfill our joy, that ye be like minded, having the ſame love, being of one accord, and of one mind.</hi>
+            </p>
+            <p n="44">44. This, I hope, you will do, not onely in your beſt devo<g ref="char:EOLhyphen"/>tions,<note place="margin">Pſalm 122.6.</note> daily praying for the <hi>peace of Jeruſalem, by which you ſhall be ſure to proſper,</hi> but alſo in your conſtant behaviour, and conſonant devoirs, humbly ſubmitting your ſelves, and ſuffering the <hi>peace of God to rule in your hearts,</hi>
+               <note place="margin">Coloſſ 3 15.</note> 
+               <hi>unto which ye are called in one body,</hi>
+               <note place="margin">Pſal. 126.3.</note> and ſtriving alwayes to be thankfull for the great and wonderful things which the Lord hath begun to do for us alrea<g ref="char:EOLhyphen"/>dy toward this hopefull end, whereof we rejoyce; ſtill remem<g ref="char:EOLhyphen"/>bring, how all the Worthies, both in Heaven and Earth, con<g ref="char:EOLhyphen"/>ſpire to combine us hereunto. God the Father, from whom we are ſent,<note place="margin">Heb. 13.20. Iſa. 9.6. Epheſ. 4 3. Luk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1.14. Iſa 33.7. Luke 10, 5. Rom. 10.15. Epheſ 2.17. John 14.27. Phil. 4.7. Iſa. 32.17.18.</note> is the <hi>God of peace;</hi> God the Son, for whom we are ſent, is the <hi>Prince of peace;</hi> God the Holy Ghoſt, with whom we are ſent, is the <hi>Spirit of peace;</hi> the Angels of Heaven, that guard us in this meſſage, are the <hi>Chanters of peace;</hi> we the Meſſen<g ref="char:EOLhyphen"/>gers therein guarded by them, are the <hi>Ambaſſadors of peace;</hi> the Meſſage it ſelf, with which we are ſent, is the <hi>Goſpel of peace;</hi> the People, to whom we are ſent, are the <hi>Heirs of peace.</hi> And the price at which we are to aim, is the rich, precious, and peerleſs Legacy of the <hi>peace of Chriſt, which paſſeth all underſtanding; That the work of righteouſneſs may be peace, and the effect thereof quietneſs, and aſſurance for ever. That we and Gods people may dwell in a peaceable habitation, in ſure dwellings, and in quiet reſting places.</hi> Wherefore I ſay no more, but take my leave, and ſhut up all with the phraſe and farewell of our Apoſtle.<note place="margin">2 Cor 13 11.</note> 
+               <hi>Finally, brethren, farewell; Be perfect, be of good comfort, be of one minde, live in peace, and the God of love and of peace ſhall be with you.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:48318:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
